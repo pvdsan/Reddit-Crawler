@@ -6,9 +6,6 @@ import praw
 
 # Load your full list
 SUBREDDITS = load_subreddits("subreddits.txt")
-KEYWORDS = [
-
-]
 
 reddit = praw.Reddit(
     client_id="SOaUPFvPmBJx8kOHdLvuBg",
