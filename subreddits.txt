@@ -3,7 +3,6 @@ Entrepreneur
 EntrepreneurRideAlong
 SideProject
 IndieHackers
-ai_ideas
 artificial
 MachineLearning
 saas
