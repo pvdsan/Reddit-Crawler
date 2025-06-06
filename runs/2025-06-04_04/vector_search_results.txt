@@ -1,0 +1,1978 @@
+Result 1:
+  ID: 1l2m9sd
+  Score: 0.4349
+  Text: I'm building an AI tool to generate SaaS ideas based on your skills – would you use it?   
+Hi everyone,  
+I’m working on a tool that helps developers and makers like us who want to build something but don’t know *exactly what*.
+
+The idea is simple:  
+\- You share your current tech stack, interests, and strengths.  
+\- The tool analyzes demand and trends (from Reddit, X, etc.).  
+\- It suggests a SaaS idea tailored to your strengths, with a landing page, roadmap, tweet thread ideas, and even a launch plan.
+
+Yes, you can do some of this with ChatGPT, but I’m aiming to centralize everything into one clean flow: no bouncing between tabs, no vague prompts, and no messy docs.
+
+It's currently an MVP, and users can test onboarding + idea discovery.  
+If interested, you can [join the waitlist](https://l.messenger.com/l.php?u=https%3A%2F%2Fv0-idea-clarity-zeta.vercel.app%2Fauth%2Fsignin&h=AT3C_tw-qduLun142yfLHm5-HoGgICvpj7wLlEDY8fzcepYSCIeZ7_cHcZQdG8GJAwe6J74ruTghDey1S7yvCY-C2XTl0zuNf8VeYfYjt0emZ-nXePkerJUM43jvcyaoW_qccQ) for early access.
+
+What do you think, is this something you'd try? Any feedback is gold 🙏
+--------------------------------------------------
+
+Result 2:
+  ID: 1l2dnkz
+  Score: 0.4259
+  Text: Here are 3 startup ideas my tool fished out of Reddit threads Hey Reddit, 
+for context: I build a tool that searches through Reddit threads and filters out validated business ideas.
+Here are some problems, users posted about, which could be solved by a saas business, which were sorted out by my tool.
+
+1. User seeks a streamlined tool, preferably compatible with Google Drive and potentially beyond Zapier, to automate the repetitive process of creating and structuring client folders with nested subfolders within Google Drive upon onboarding new clients, aiming to eliminate manual setup and improve efficiency.
+
+2. User needs a tool to manage to-do lists organized by projects, allowing them to create a unified dashboard with selected items from various projects and enabling the completion status to synchronize between the dashboard and the individual project lists.
+
+3. A user is seeking strategies to overcome communication barriers experienced by small businesses when dealing with international wholesalers online, specifically regarding language proficiency in English during basic inquiries.
+
+
+A more detailed version of the posts and problems will be part of the MVP which is coming this week. (Already promised it earlier but faced some technical issues that have to be fixed)
+
+If you have any feedback, let me know!
+Thanks for reading
+--------------------------------------------------
+
+Result 3:
+  ID: 1l2j7ah
+  Score: 0.4167
+  Text: What if AI could help you find your next SaaS idea, based on your own skills and interests? **Hey builders 👋**
+
+  
+I’m working on a tool that helps solo devs and indie hackers generate startup ideas based on their **skills, interests, and constraints**.
+
+It also helps validate those ideas (landing page, tweet generator, competitor scan, etc.) and turns them into a **step-by-step roadmap** to build and launch the MVP.
+
+**Curious to know:**  
+If such a tool existed and actually matched you with ideas you could realistically build and grow :  
+→ Would you use it?  
+→ What would you expect it to do best?
+
+I’m building this in public, and would love your honest thoughts 🙏
+--------------------------------------------------
+
+Result 4:
+  ID: 1kyt62c
+  Score: 0.3862
+  Text: One-Minute Daily AI News 5/29/2025 1. AI could wipe out some white-collar jobs and drive unemployment to 20%, **Anthropic** CEO says.\[1\]
+2. **Meta** to help develop new AI-powered military products.\[2\]
+3. **NY Times** Inks AI Licensing Agreement With Amazon.\[3\]
+4. **xAI** to pay Telegram $300M to integrate Grok into the chat app.\[4\]
+
+Sources:
+
+\[1\] [https://www.yahoo.com/news/ai-could-wipe-white-collar-155200506.html](https://www.yahoo.com/news/ai-could-wipe-white-collar-155200506.html)
+
+\[2\] [https://www.cbsnews.com/news/meta-ai-military-products-anduril/](https://www.cbsnews.com/news/meta-ai-military-products-anduril/)
+
+\[3\] [https://www.pymnts.com/news/artificial-intelligence/2025/new-york-times-inks-ai-licensing-agreement-with-amazon/](https://www.pymnts.com/news/artificial-intelligence/2025/new-york-times-inks-ai-licensing-agreement-with-amazon/)
+
+\[4\] [https://techcrunch.com/2025/05/28/xai-to-pay-300m-in-telegram-integrate-grok-into-app/](https://techcrunch.com/2025/05/28/xai-to-pay-300m-in-telegram-integrate-grok-into-app/)
+--------------------------------------------------
+
+Result 5:
+  ID: 1l1pi36
+  Score: 0.3831
+  Text: Looking to Collaborate on a Real ML Problem for My Capstone Project (I will not promote, I have read the rules) Hi everyone,
+
+I’m a final-year B. Tech student in Artificial Intelligence & Machine Learning, looking to collaborate with a startup, founder, or builder who has a real business problem that could benefit from an AI/ML-based solution. This is for my 6–8 month capstone project, and I’d like to contribute by building something useful from scratch.
+
+I’m offering to contribute my time and skills in return for learning and real-world exposure.
+
+# What I’m Looking For
+
+* A real business process or workflow that could be automated or improved using ML.
+* Ideally in healthcare, fintech, devtools, SaaS, operations, or education.
+* A project I can scope, build, and ship end-to-end (with your guidance if possible).
+
+# What I Bring
+
+* Built a FAQ automation system using RAG (LangChain + FAISS + Google GenAI) at a California-based startup.
+* Developed a medical imaging viewer and segmentation tool at IIT Hyderabad.
+* Worked on satellite image-based infrastructure damage detection at IIT Indore.
+
+Other projects:
+
+* Retinal disease classification with Transformers and Multi-Scale Fusion.
+* Multimodal idiom detection using image + text data.
+* IPL match win prediction using structured data and ML models.
+
+# Why This Might Be Useful
+
+If you have a project idea or an internal pain point that hasn’t been solved due to time or resource constraints, I’d love to help you take a shot at it. I get real experience; you get a working MVP or prototype.
+
+If this sounds interesting or you know someone it could help, feel free to DM or comment.
+
+Thanks for your time.
+--------------------------------------------------
+
+Result 6:
+  ID: 1kzzb92
+  Score: 0.3757
+  Text: The most exciting development in AI which I haven't seen anywhere so far Most people I worked with over the years were in need of making data driven decisions while not being huge fans of working with data and numbers. Many of these tasks and calculations can be finally handed over to AI by well defined prompts forcing the the AI to use all the mathematical tooling. While these features exist for years they are just getting reliable since some weeks and I can’t stop using it. Allowing me to get rid of a crazy amount of tedious excel monkey tasks.
+
+The strategy is to abuse the new thinking capabilities by injecting recursive chain-of-thought instructions with specific formulas while providing a rigorous error handling and sanity checks. I link to an example prompt to give you an idea and if there is enough requests I will write a detailed explanation and the specific triggers how to use the full capabilities of o3 thinking. Until then I hope this gives you an inspiration to remove some routine work from your desk.
+
+[Prompt for o3](https://gist.github.com/BeMoreDifferent/2f67965643b1fc50af95636457d4fe94)
+
+**Disclaimer**: the attached script is a slightly modified version of a specific customer scenario. I added some guardrails but really use it as inspiration and don’t rely on this specific output.
+--------------------------------------------------
+
+Result 7:
+  ID: 1ky7kdy
+  Score: 0.3694
+  Text: I will not promote. What's the weirdest healthtech startup idea you've heard of (or thought of)? will not promote. 
+
+Healthtech is full of wild, unexpected ideas - from Al-powered diagnostics to wearable devices that track your sleep, to apps that remind you to drink water. Sometimes those ideas are genius. Other times... well, they're just plain weird.
+
+  
+We're curious: what's the strangest or most unexpected healthtech startup idea you've come across? Whether it was something you heard, worked on, or even dreamed up in a late-night brainstorm session. Bonus points for stories about why it didn't work (or why it might actually be brilliant).
+
+  
+Ready, set, share your wildest healthtech tales!
+--------------------------------------------------
+
+Result 8:
+  ID: 1l2lbqt
+  Score: 0.3648
+  Text: SaaS Idea Validation Hello,
+
+I bet some of you guys might be sitting in meetings alot and for that reason I was thinking about building an AI based transcription SaaS. Wai't don't judge yet. I know there is competition in form of [otter.ai](http://otter.ai/) and [fireflies.ai](http://fireflies.ai/) but I plan to do a kind of different approach. I won't have bots join the meeting but rahter allow users to share their browser tabs. In that case Ill have speaker distinction, automatic slide screenshots and an AI summary in the end which you can edit and export. What do you think about that?
+
+I have several years experience with coding and stuff so the only things Ill have to figure out would be marketing and stuff.
+
+Would you buy this?  
+
+
+Thanks
+--------------------------------------------------
+
+Result 9:
+  ID: 1l2v91g
+  Score: 0.3625
+  Text: My startup went viral after making a commercial using AI from barely 37 signups... to friggin 11K
+
+i actually can’t believe it... i literally just wanted to satisfy my creative side so i decided to let myself have some fun with VEO-3 and Capcut. i liked what i ended up getting, and decided to post it on a couple discords im active in and on twitter and woke up to it blowing up. i could have never have done this 3 years ago.
+
+i think the context plays a big part. my startup is called humanet and it is supposed to be a 100% human only social media, which means there will be no bots/spam/ai slop. i made it because a lot of the old online spaces i used to enjoy got overridden by ai agents/bots that just talk to eachother endlessly and it depressed me. so i made my commercial about how ai is going to take over the internet. i have gotten a lot of really great feedback!!!!!
+
+if i have any advice for new startup founders, it is to utilize ALLLLL the resources you can. every single one. until recently, i thought this was the worst time to be a startup founder. IM WRONG. ITS THE BEST TIME. YOU CAN MAKE SICK ASS ADS IN ONE SINGLE DAY :D
+--------------------------------------------------
+
+Result 10:
+  ID: 1l2vmht
+  Score: 0.3513
+  Text: [Launch] Rivera Solutions – Helping You Build Web & AI Products Hey r/SideProject!
+
+After a few months of working with clients and refining our dev process, I’m excited to share what I’ve been building behind the scenes: **Rivera Solutions** — a small dev studio focused on helping founders, startups, and indie makers turn their ideas into real, working products.
+
+**What we do:**
+
+* Custom web apps tailored to your needs
+* MVPs to validate and launch quickly
+* SaaS platforms that scale with your growth
+* AI integrations (OpenAI, Claude, Gemini, etc.)
+* Automations & backend systems to save time and money
+
+I started Rivera Solutions to support people who have big ideas but need a reliable tech partner to bring them to life. Whether it’s building from scratch, automating your workflow, or adding AI to your product — we can help.
+
+Here are a couple of recent projects we built for clients:
+
+🎬 **VidyoAI** – An AI platform that creates publish-ready social media videos automatically  
+📸 **FotoStudioAI** – Transforms regular selfies into professional headshots, CV-ready in seconds
+
+Tech-wise, we mostly use Python, FastAPI, Flask, Tailwind CSS, and work with top AI tools like OpenAI, Claude, Whisper, etc.
+
+If you’re building something or just want to check it out and share feedback, here’s the site:  
+👉 [https://riverasolutions.vercel.app/](https://riverasolutions.vercel.app/)
+
+Thanks for reading! Always happy to connect, collaborate, or answer any questions 🙌
+--------------------------------------------------
+
+Result 11:
+  ID: 1l2vh87
+  Score: 0.3498
+  Text: One-Minute Daily AI News 6/3/2025 1. **Anthropic’s** AI is writing its own blog — with human oversight.\[1\]
+2. **Meta** becomes the latest big tech company turning to nuclear power for AI needs.\[2\]
+3. A team of **MIT** researchers founded Themis AI to quantify AI model uncertainty and address knowledge gaps.\[3\]
+4. **Google** quietly paused the rollout of its AI-powered ‘Ask Photos’ search feature.\[4\]
+
+Sources:
+
+\[1\] [https://techcrunch.com/2025/06/03/anthropics-ai-is-writing-its-own-blog-with-human-oversight/](https://techcrunch.com/2025/06/03/anthropics-ai-is-writing-its-own-blog-with-human-oversight/)
+
+\[2\] [https://apnews.com/article/meta-facebook-constellation-energy-nuclear-ai-a2d5f60ee0ca9f44c183c58d1c05337c](https://apnews.com/article/meta-facebook-constellation-energy-nuclear-ai-a2d5f60ee0ca9f44c183c58d1c05337c)
+
+\[3\] [https://news.mit.edu/2025/themis-ai-teaches-ai-models-what-they-dont-know-0603](https://news.mit.edu/2025/themis-ai-teaches-ai-models-what-they-dont-know-0603)
+
+\[4\] [https://www.theverge.com/news/678858/google-photos-ask-photos-ai-search-rollout-pause](https://www.theverge.com/news/678858/google-photos-ask-photos-ai-search-rollout-pause)
+--------------------------------------------------
+
+Result 12:
+  ID: 1l25edf
+  Score: 0.3479
+  Text: Do you guys think this is a good idea? I was applying for an SEO role at a GTM app which does AI-content writing/posting with automated outreach for linkedIn
+
+checked the competitors and found another comp uses genpages ai, a customized landing page creator app for ABM campaigns
+
+ABM campaigns are simply put, personalized marketing / sales campaigns aimed to maximize response or lead generation from prospects, pretty hot stuff in sales marketing
+
+the MOAT and USP is pretty huge given there's a large output of apps on the market with AI, everyone is trying to hit the b2b saas market with their indie tools
+
+it's more like 'selling the shovel' kind of idea but the whole building to getting to market seems like a breeze
+
+connect to bolt or galileo, put up a good UI in the frontend with good copy, blast a ton of cold emails to new saas by early stage founders or teens selling to b2b saas
+
+what do y'all think, do share your inputs below
+--------------------------------------------------
+
+Result 13:
+  ID: 1l21ban
+  Score: 0.3472
+  Text: I keep building SaaS products before validating them properly. Now I want to fix this for good. I've made the same mistake 3 times now: falling in love with an idea, spending months and money building it, only to launch to crickets. f\*#$.
+
+Every time someone asks "how do I validate my SaaS idea?" here or on r/SaaS, the advice is always the same: "Build a landing page, run some ads, collect emails, see if people will pay."
+
+But here's the thing - even *that* process is a pain. You spend days writing copy, designing pages, setting up tracking, learning Facebook/Google ads, figuring out targeting... By the time you're done, you've already invested weeks and you're emotionally attached. You might as well build the damn product at this point.
+
+**So I'm working on this:** A platform where you literally just describe your idea to an AI, and within hours it:
+
+* Writes landing page copy
+* Generates visuals
+* Builds the landing page with CTA (sign up, subscribe etc)
+* Sets up ad campaigns on common social media platforms (Meta, X, Reddit?)
+* Starts collecting real demand data
+
+Basically I want to get from Thought to Test within the same day. Then let the test run, and get to a good decision point by the end of the week.
+
+**Honest questions:**
+
+* Am I the only one who finds the current validation process tedious?
+* Would going from idea to live test in a few hours actually change your behavior?
+* What would stop you from trusting AI-generated validation assets?
+
+Really trying to figure out if this scratches a real itch or if I'm about to make mistake #4. 😅
+
+Your brutal honesty appreciated!
+--------------------------------------------------
+
+Result 14:
+  ID: 1l2pfud
+  Score: 0.344
+  Text: Business idea So I have gotten an IT internship and have been working it for around a month now, and I have noticed how inefficient a lot of businesses are. Especially small businesses, who seem to have so many menial tasks that they need to do on top of the important stuff. So, noticing this, I was thinking. Would a small business automation company be a good idea? By using AI and modern technology, so many tasks could be automated, saving a ton of time and money. Especially in small towns I’ve noticed that small businesses are often not that tech savvy and are stuck in the past. My co worker told me that when he was working at our local hospital, they payed someone 4K to do a presentation on ChatGPT. Businesses and small businesses especially seem desperate to keep with the times, and not get left behind by AI. I could see this being super useful for skilled trades businesses as well. Anyways, what are your thoughts? Could this be something?
+--------------------------------------------------
+
+Result 15:
+  ID: 1l2c98a
+  Score: 0.343
+  Text: I’ve got an idea that I’d love to hear your thoughts on. A Standalone AI Agent that acts as your first point of contact, trained to answer questions, qualify leads, and collect info 24/7 so you don’t have to 🤖 Here are key points of the idea:
+
+# 🔗 Shareable & Standalone page
+
+No website or code needed. Just share your custom link and your AI Agent becomes your branded, interactive page.
+
+# 🎨 Personalized & On-Brand
+
+Customize your agent’s name, look, and behavior so it feels like , not a generic chatbot.
+
+# 🧠 Easy to Train, No Code
+
+Quickly train your agent with your content, services, or FAQs. No complex setup just point, paste, and go.
+
+# 📥 Capture & Qualify Leads
+
+Collect useful details from visitors like contact info, goals, resumes, or project requirements without back-and-forth emails.
+
+p/s: If you're interested in, here is the waitlist: [https://tally.so/r/wd1pQr](https://tally.so/r/wd1pQr)
+--------------------------------------------------
+
+Result 16:
+  ID: 1kxk58g
+  Score: 0.3413
+  Text: $7K saved & 6 months runway, what would you do? I recently left my job. I have always been dreaming about starting my own business so earlier this year I started working towards getting myself in the position to focus full time.
+I worked in marketing at a small tech company for a few years. 
+
+Some of my skills:
+•	Copywriting
+•	Design (Photoshop + Illustrator)
+•	Running small ad campaigns
+•	Basic web apps (through AI tools)
+
+I’m not a developer, but I have built some basic landing pages in the past using AI.
+
+I’ve saved up ~$7K for the business and have enough to live for the next 6 months. 
+
+If you were in my shoes, what would you do?
+--------------------------------------------------
+
+Result 17:
+  ID: 1kwyn0j
+  Score: 0.341
+  Text: Would entrepreneurs pay for an AI-powered MVP retreat? Seeking honest feedback I'm exploring a concept for a week-long retreat where entrepreneurs can build an MVP using AI coding tools in just 7 days. Before investing more time, I'd love some honest feedback.
+
+The concept:
+
+\- Small group (5-10 entrepreneurs) in a villa in \[exotic location\]
+
+\- Focus on creating a functional software MVP in one week
+
+\- AI coding tools + technical mentors to accelerate development
+
+\- Business validation and go-to-market strategy workshops
+
+\- Networking with like-minded entrepreneurs
+
+\- Price point around $8,500-10,000 (excluding flights)
+
+
+
+My questions:
+
+1. Would this solve a real pain point for you as an entrepreneur?
+
+2. What would make this worth the investment for you?
+
+3. What concerns would you have about this concept?
+
+4. What would you expect to walk away with after the week?
+
+  
+I'm not selling anything - just trying to validate if this concept resonates before developing it further. All feedback welcome, especially critical perspectives. I have a google form too if you want to help and that's easier!
+--------------------------------------------------
+
+Result 18:
+  ID: 1l297bk
+  Score: 0.3404
+  Text: What are the best SAAS AI Agents you have come across so far? Hi all- it looks like there are 100s of AI agents out there and there are many new ones coming out daily.
+
+So curious, what are the best SAAS AI Agents you have come across so far?  Particularly looking for things that can help me run my business faster or better!
+--------------------------------------------------
+
+Result 19:
+  ID: 1kxwa8k
+  Score: 0.3393
+  Text: I'm completely out of pivot ideas. what do you do to find inspiration? I will not promote.   
+I will not promote.  
+  
+I launched my startup in 2023 starry eyed and confident. Managed to raise a small round, put together a team. But over the last 2 years we just haven't found \_any\_ traction. In that time period, my co-founder left, the team shrank, and now it's just me and cursor.
+
+I've got about $100k left, I feel like that's enough to give it 1 more swing, but I'm drawing a blank on what to build. I'm a well rounded engineer with experience in AI and app dev. So that isn't an issue, I'm just having some founder's block.
+--------------------------------------------------
+
+Result 20:
+  ID: 1l2pnb5
+  Score: 0.3374
+  Text: Starting an AI Agency and Automation service **Hello, fellow tech people**
+
+My friend and I are in the early stages of launching an AI agency/automation business, and we’re looking for tips or fundamental steps that could guide us along the way. This isn’t a spur of the moment idea we’ve put in significant research and understand the challenges that lie ahead.
+
+Between the two of us, we bring a solid foundation of skills to the table: he’s a software developer and I come from an IT background, so we cover different aspects of the tech spectrum. We’re serious about making this  succeed and are open to any advice, strategies, or best practices that could help us build and scale effectively.
+
+Additionally, we’d love to hear any tips for long-term success in the AI/automation/software space especially things you wish you knew when starting out.
+
+Thank you!
+--------------------------------------------------
+
+Result 21:
+  ID: 1l0hjac
+  Score: 0.337
+  Text: Random idea (I will not promote) I say it's random because I have no skills either on hardware or on machine language/AI yet it just hit me that a palm size, round speaker with conversational AI built into it can be a pretty good selling product. Yes there's always a phone to do the same thing but I feel like people would be looking to talk about anything to something that doesn't have a screen or a camera on it. I also guess this is a pretty obvious product to think about. If anyone wants to work together on it that'd be awesome. My background is entirely biology but I'm sure I can help with something about it LOL. Thanks!
+--------------------------------------------------
+
+Result 22:
+  ID: 1l1h0ux
+  Score: 0.3367
+  Text: European-Based Startup. Looking for a Developer to Join Me as a Technical Partner (AI Productivity App, MVP Exists) Hey everyone,
+
+A month ago, I posted here looking for a developer. Back then, I found a partner and we worked together on the first phase. We successfully got an initial MVP version of my product built: an AI-powered productivity app with a focus on Neurodivergence and cognitive systems. The concept is solid, documentation exists, and the foundation is fully defined.
+
+However, due to personal circumstances, my partner is no longer continuing with the project. We’ve closed everything off properly, and I retain full rights to the current codebase and system design.
+
+Now I’m looking for a new technical partner to continue from here. Someone who’s interested not just in writing code, but in growing with me long-term, potentially taking the CTO or Lead Engineer role as the product evolves into a real business. I am not looking for short-term contractors or Fiverr devs — I want a collaborator who sees the upside in building something serious together.
+
+**What exists today:**
+
+* Fully defined system architecture & documentation
+* An MVP with working features
+* A fully registered company (Portugal-based, but open to Europe in general)
+* Early business plan & monetization strategy
+* Some IP filings and protective steps already taken
+
+**The tech stack (so far):**
+
+* Custom AI interaction layers
+* Web front-end (React) + TS
+* Node + TS
+* Postgres
+* Qdrant ready for enhancing context
+* Backend infrastructure and cloud setup
+* GitHub repo fully available
+
+**What I’m looking for:**
+
+* Europe-based (ideally similar time zones)
+* Ambitious but realistic, understands early stage realities
+* Comfortable taking ownership of the technical direction
+* Someone who values structure, clarity, and long-term vision
+* Willing to collaborate on architecture, product direction, and scalability
+* Ideally familiar with AI, LLMs, or productivity software (not a hard requirement)
+
+This is still an early-stage startup, but one where a lot of foundation work has already been done. The goal is simple: build a product that generates real revenue and profit. There’s real market potential if we execute right.
+
+When I originally posted here, quite a few people reached out. Some I had to turn down because I had already partnered with someone. So now I’m returning to this community to see if the right person is still out there.
+
+If you're curious or think this might be a fit, feel free to DM me and we can have a chat.
+--------------------------------------------------
+
+Result 23:
+  ID: 1l1k99q
+  Score: 0.3363
+  Text: Trying Everything, Getting Nowhere. Entrepreneurs, What Online Skill Pays in 2025!?? Hey entrepreneurs, I'm teenager obsessed with building something of my own. I don't want a get-rich-quick scheme. I just want to fund my startup dreams. one real, hard-earned dollar at a time. I've tried many things to find some gigs to fund my startup. Ive tried platforms like Fiverr (no orders), Upwork (no connects, can't break in), NFT, content writing (still hunting).
+
+Every platform feels like a locked door. But I'm still knocking - just need someone to show me the right one to knock harder on.
+
+I can do, Write content (especially NFTs, DeFi, option trading), Research like a machine + learn fast, Build creative concepts (I even started my own NFT universe). I work hard, I care, and I don't ghost.
+
+I'm not just chasing money - I'm chasing freedom like everyone else here!! I want to build a startup that means something. But first, I need to earn online and reinvest into my dream.
+
+If you've been there - starting from zero I'd love to know, Just need some direction from someone real, im qll ears to hear your thoughts, experience, stories...
+
+Thanks for reading
+--------------------------------------------------
+
+Result 24:
+  ID: 1kxq9kw
+  Score: 0.3346
+  Text: Potential future for AI interaction? [i will not promote] Hey Reddit, I’m exploring an idea and would love your honest feedback:
+
+When you ask an AI like ChatGPT or Claude, “What’s the best sunglasses brand for a European summer?”, how does it decide what to recommend?
+
+Right now, AI scrapes the web—a system built for humans, not machines. That means it has to piece together data from scattered sites, which leads to hallucinations, wrong answers, and brands being misrepresented.
+
+So here’s my thought:
+What if we had a registry built specifically for AI, a trusted, structured source where brands could present their identity in a way AI can natively understand? No scraping. No confusion. Just clear, machine-readable data.
+
+This could:
+Reduce hallucinations (AI shows exactly what the brand wants it to)
+
+Level the playing field (small brands aren’t buried under big spenders like in SEO)
+
+Be 10x faster than scraping
+
+Let AI match brands to users based on vibe, need, and context
+
+I’m super early on this, but…
+
+	•	Is this a problem worth solving?
+
+	•	Would brands care about this enough to adopt it?
+
+	•	Would AI agents even want a system like this?
+
+If you’ve thought about this—or if you think I’m way off—I’d really appreciate your take.
+--------------------------------------------------
+
+Result 25:
+  ID: 1l05awc
+  Score: 0.3337
+  Text: We might be 2-4 decades away from AI that can automate any job. How can humanity adapt? Feel free to share any idea you have. Just any ideas on what realistically could be done or changed, whether by governments, companies or us mere mortals, and what should we strive for to begin with. 
+
+
+
+(The "2-4 decades away" comes from AI researcher Tom Davidson. He could be wrong, but either way, we're already seeing some jobs getting replaced, and it's only a matter of time before enough jobs will be doable with AI for it to curb-stomp the economy and society as a whole if we're not prepared)
+--------------------------------------------------
+
+Result 26:
+  ID: 1l25bm6
+  Score: 0.3327
+  Text: Build your side project from 0 to 1 in 500usd! I'm Dhruv a co founder of Kartavya Technology and through a unique business model we build Apps and AI Agents for SMEs and Startups for a very cheap price! 
+
+If you want to build a full fledged Mobile/Web apps with AI then DM me!
+
+Here's our past apps  
+\- [https://www.ophiz.com](https://www.ophiz.com) (10,000+ DAUs)  
+\- [https://targafy.com](https://targafy.com)  
+\- [https://www.issuecop.com](https://www.issuecop.com)
+--------------------------------------------------
+
+Result 27:
+  ID: 1kx896q
+  Score: 0.3324
+  Text: One-Minute Daily AI News 5/27/2025 1. **Google** CEO Sundar Pichai on the future of search, AI agents, and selling Chrome.\[1\]
+2. Algonomy Unveils **Trio** of AI-Powered Innovations to Revolutionize Digital Commerce.\[2\]
+3. **Anthropic** launches a voice mode for Claude.\[3\]
+4. LLMs Can Now Reason Beyond Language: Researchers Introduce Soft Thinking to Replace Discrete Tokens with Continuous Concept Embeddings.\[4\]
+
+Sources:
+
+\[1\] [https://www.theverge.com/decoder-podcast-with-nilay-patel/673638/google-ceo-sundar-pichai-interview-ai-search-web-future](https://www.theverge.com/decoder-podcast-with-nilay-patel/673638/google-ceo-sundar-pichai-interview-ai-search-web-future)
+
+\[2\] [https://finance.yahoo.com/news/algonomy-unveils-trio-ai-powered-020000379.html](https://finance.yahoo.com/news/algonomy-unveils-trio-ai-powered-020000379.html)
+
+\[3\] [https://techcrunch.com/2025/05/27/anthropic-launches-a-voice-mode-for-claude/](https://techcrunch.com/2025/05/27/anthropic-launches-a-voice-mode-for-claude/)
+
+\[4\] [https://www.marktechpost.com/2025/05/27/llms-can-now-reason-beyond-language-researchers-introduce-soft-thinking-to-replace-discrete-tokens-with-continuous-concept-embeddings/](https://www.marktechpost.com/2025/05/27/llms-can-now-reason-beyond-language-researchers-introduce-soft-thinking-to-replace-discrete-tokens-with-continuous-concept-embeddings/)
+--------------------------------------------------
+
+Result 28:
+  ID: 1kyfe04
+  Score: 0.332
+  Text: (FREE) Idea and a Proof of Concept: Start your online business with free tools and (almost) zero investment This is my first post on r/EntrepreneurRideAlong, and it is a longer one. TL;DR in the first comment.
+
+I created this post to validate an idea and share it with the community of builders and creators. I'm looking forward to talking with you and am open to any suggestions.
+
+**Disclaimer**
+
+What this is not:
+
+* This is **not a guide** to starting a company (in my honest opinion, 'company' is not 'business'; however, company is used to run a business).
+* This is **not a detailed walkthrough** guide.
+* This is **not a get-rich-quick** or get-rich-easy scheme
+* This is not a  **"you won't spend anything"** guide. You at least spend your time
+* I am **not affiliated** with any of the platforms I suggested here in any way.
+
+Why I share and what this is:
+
+* This is an idea on how you can **start simple** and (almost) **free**.
+* I share **because I care.** I believe that any human with the desire to work should be able to start for free and at least cover their weekly groceries with their skills, packaged as a product.
+* This **idea and POC** rely on skills and knowledge suited for **digital products** (e.g., you are a pastry chef, and you are selling your best-performing recipes in a digital book)
+* Ultimately, my **goal** is to receive a response from the community of builders, makers, creators, entrepreneurs, solopreneurs, and engineers, and then create something that will **benefit all** of us.
+
+**How it started**
+
+I am a software engineer starting my solopreneurship journey. For a long while, I have been trying to move away from the rat race of working for companies and work for myself.
+
+I live in a country where the opportunities for earning money online through content creation are limited. Here, starting the company is akin to rocket science, and maintaining it is comparable to keeping a space station operational. There is considerable potential, but numerous obstacles. So, if I am to create something complex, I will spend time (time is money, after all) and money (money is money, after all).
+
+I came up with these rules to start the business online:
+
+* Start simple, dead simple
+* Don't spend (a lot of) money
+* Use the available and free tools to start
+* No need for company formation
+* Money earned should be easy to move to your bank account
+
+**The business template**
+
+By following successful solopreneurs, creators, and makers like Justin Welsh, Mat Gray, and John Rush, among others, I observed what they say starting a business online should be and how it should start.
+
+So here is the observed template:
+
+1. **Select your niche** (what you are doing daily, what you like doing, what you are passionate about)
+2. **Niche down** (go from the broader audience, like "cooking and recipes", to a more targeted audience, like "the most famous recipes from the streets of South America", you get the idea)
+3. **Find distribution channels** (newsletters, social networks, forums, anywhere your audience spends time; this is the start of marketing)
+4. **Build your audience first** (people spend months, even years, building products no one ever uses, so before building your product, build the audience)
+5. **Create value** by sharing (be yourself, your thoughts sent to the world are what is key in all of this)
+6. **Collect insights** (this is what helps you define what the product is)
+7. **Build a product** (solve a problem, build a feature, create something your audience needs and values)
+8. **Monetize the product** (get some value back)
+9. **Scale your business** (use new insights to improve and then scale)
+
+**The idea**
+
+To cover these points, I came up with this collection of online tools that offer a free account with a lot of value upfront ->
+
+1. Create with Notion
+2. Publish with Substack
+3. Sell with Lemonsqueezy
+
+**Explanation**
+
+**Notion** allows you to create content, publish pages, and integrate with other services. All for free, some features are limited, but it is a simple start. It features a user interface that even non-technical users can easily use. Additionally, it offers free tutorials to help you learn how to use it.
+
+It covers **creating value** and even **building product** requirements.
+
+**Substack** is free, and it allows you to build a following with zero investment. It already has a diverse audience, and you can easily find your target audience there. It even allows you to make money with the paid content section. And the most important part is that it promotes your content on its network, so you get seen without paying anything.
+
+It covers finding **distribution channels**, **building your audience first**, and **collecting insights** requirements.
+
+**Lemonsqueezy** is free to open, although you must pass the verification process and have a website where you can market your product. And this is the only option where I spent money to make the store legitimate and get verified. I bought a domain for under $10 and made a site that I host for free on Cloudflare.
+
+**Proof of Concept**
+
+This section included links to the POC and promoted a concept, not a paid product. But, to comply with the rules regarding DMs and links, I removed all references. So here is the best explanation of how the POC I built works.
+
+**Notion (free site)**
+
+I decided to go with my website for the reasons mentioned in the Lemonsqueezy section above. However, this was an example of how you can build a site with Notion and promote your product in that way.
+
+**Website (marketing + store)**
+
+Contains the description of one free product, a digital guide made with Notion and converted to PDF with some random Chrome browser extension.
+
+When you click on the product, you are directed to a Lemonsqueezy-hosted payment form, where you can either pay a specified amount or enter 0 and leave your email as a "price" for a free guide.
+
+Additionally, it features a Substack-hosted subscription form, allowing visitors to stay informed about new products.
+
+**Note**: When you submit the form to receive the free guide, it does not get sent because my store on Lemonsqueezy is currently on hold. I have a free product, and they don't like that; they want you to have paid products so that they can make money too. So, my following product needs to be a paid product for the store to go live. (I already have an idea to build on this free one).
+
+**Publication:** Substack
+
+I made one post about what this publication is about, and it has an AI-generated image I made for fun to showcase that "beginnings are hard", but there is a solution to start simple. I made a promise to provide a guide like this in the next post, and even promised to post every two weeks, which I did not keep. BUT I intend to return to this as just one post made me 13 followers on the platform.
+
+I haven't refined this post, and not a single letter was generated by AI (except that I use Grammarly to help me fix mistakes and suggest improvements; English is not my native language). This is just me sharing what is on my mind and what I work on.
+--------------------------------------------------
+
+Result 29:
+  ID: 1l20ypb
+  Score: 0.3318
+  Text: One-Minute Daily AI News 6/2/2025 1. Teaching AI models the broad strokes to sketch more like humans do.\[1\]
+2. **Meta** aims to fully automate advertising with AI by 2026, WSJ reports.\[2\]
+3. **Microsoft** Bing gets a free Sora-powered AI video generator.\[3\]
+4. US **FDA** launches AI tool to reduce time taken for scientific reviews.\[4\]
+
+Sources:
+
+\[1\] [https://news.mit.edu/2025/teaching-ai-models-to-sketch-more-like-humans-0602](https://news.mit.edu/2025/teaching-ai-models-to-sketch-more-like-humans-0602)
+
+\[2\] [https://www.reuters.com/business/media-telecom/meta-aims-fully-automate-advertising-with-ai-by-2026-wsj-reports-2025-06-02/](https://www.reuters.com/business/media-telecom/meta-aims-fully-automate-advertising-with-ai-by-2026-wsj-reports-2025-06-02/)
+
+\[3\] [https://techcrunch.com/2025/06/02/microsoft-bing-gets-a-free-sora-powered-ai-video-generator/](https://techcrunch.com/2025/06/02/microsoft-bing-gets-a-free-sora-powered-ai-video-generator/)
+
+\[4\] [https://www.reuters.com/business/healthcare-pharmaceuticals/us-fda-launches-ai-tool-reduce-time-taken-scientific-reviews-2025-06-02/](https://www.reuters.com/business/healthcare-pharmaceuticals/us-fda-launches-ai-tool-reduce-time-taken-scientific-reviews-2025-06-02/)
+--------------------------------------------------
+
+Result 30:
+  ID: 1l1qj2q
+  Score: 0.3308
+  Text: Thinking of using AI tools to build your MVP fast? Read this first. [ I will not promote ] **Last week, we set ourselves a small internal challenge:**
+
+Can we go from idea to MVP(which can be made live) of an AI-powered contract review tool in 7 days?
+
+(Apparently thats the hot demand nowadays. :) )
+
+We decided to try it ourselves. Not for a client - just to test if we can use the "AI toolchains" which we are using, hold up under pressure.
+
+**Used:**
+
+* Anthropic + Cursor for quick backend setup
+* LangChain + vector DB for RAG
+* Some prompt experience
+* And yes, late nights & coffee ( majorly junior devs were involved )
+
+
+
+**What went well:**
+
+* It could read long contracts & answer specific questions
+* Simple Chat UI with user auth + citations
+
+
+
+**What didn't:**
+
+* GPT **made up** legal points during summarisation :)
+* Real-world PDF's totally broke the logic
+* Mobile UI was laggy and no were near production-grade
+
+
+
+**Here's the honest takeway:**
+
+* Yes, you can biuld a working AI MVP fast - but don't confuse "demo" with "product".
+* Focus on proving value, not building a perfect v1.
+
+Happy to share insights, if you are thinking on similar pages.
+--------------------------------------------------
+
+Result 31:
+  ID: 1l2mfex
+  Score: 0.33
+  Text: AI coding to launch MVP/prototypes quickly (I will not promote) A MVP/Prototype, of say a mobile app, helps us (early stage startups) quickly validate the solution and iterate. While AI coding makes it fast, but unreliable code is predominant. Some of the below steps help get functional prototypes done faster and with high quality
+
+* Setup rules/instructions detailing about the code structure & standards you need
+* Use PRD or feed project specs to AI using images, textual requirements through prompts. Recommendation is to use this for simple to medium complexity
+* Have AI use a checklist, memory file if it's weak on context setting
+* Review every logic generated by AI
+* Look for deprecated packages and use prompts to update them or manually fix the same
+* To maintain stability of existing code, either break down the ask into multiple prompts fixated on context or vibe code with AI tools that are good at using context
+* For complex logic, manually code
+
+Curious to know how have others accelerated coding to quickly launch their products?
+--------------------------------------------------
+
+Result 32:
+  ID: 1l0b6w2
+  Score: 0.3297
+  Text: Mini Startup Ideas (I will not promote) I was wondering if anyone has ideas for website or web services to make a few hundred bucks per month. Just looking to build things and learn while making some additional income. I can do web development and I’m good at coding. Suggestions? Thanks!
+
+I will not promote.
+--------------------------------------------------
+
+Result 33:
+  ID: 1l2uppg
+  Score: 0.3286
+  Text: Selling a Starter AI Tools Directory Website – HTML/CSS, Responsive, Clean Design (Price Negotiable) Hey Reddit 👋
+
+I recently built a lightweight, mobile-responsive landing page for an AI tools directory. It’s built using just HTML and CSS — no frameworks or backend — so it's easy to edit, fast-loading, and beginner-friendly.
+
+It’s perfect for:
+
+* Affiliate marketers
+* SaaS founders or indie hackers
+* Anyone flipping starter sites or testing content ideas
+
+🔗 **Live preview**: [https://aiboostedtools.vercel.app](https://aiboostedtools.vercel.app)
+
+📦 **Included**:
+
+* Full HTML & CSS files (organized, clean)
+* Responsive layout + simple design
+* Quick to rebrand or expand
+
+💰 **Price**: Open to offers — negotiable via PayPal  
+📩 DM me if interested or if you want the ZIP file or have questions.
+
+Thanks!
+--------------------------------------------------
+
+Result 34:
+  ID: 1kxu8jt
+  Score: 0.3272
+  Text: Idea validation | suggestions| how to get users for beta testing ? I will not promote We've built an app that can empower people to conduct data driven decision.
+No knowledge of sal required, get insights on you database tables fast.
+Type in natural language -> get sql code, visualisations.
+Creat a persistent connection to your database .
+Get instant visualisations.
+Create dashboards that update in real time.
+Generate prediction on time series data by using our prediction agent
+All this powered by natural language and ai agents working in your persistently connected database.
+--------------------------------------------------
+
+Result 35:
+  ID: 1l2npb2
+  Score: 0.3269
+  Text: I need advice on getting started So I already developed a webapp thats like a plugin to fundamental usage if LLMs like gpt.
+I dont really want to maintain it, and I'd rather sell it off to a big tech that already has an LLM if their own.
+I'm pretty sure its novel and significant when consulting about its academic value, but I have no idea about actual industry things.
+I've lived my whole life in school and have no idea how actual money works.
+
+In these cases, how do you guys know if your product is actually valuable, and if so how much it should be worth when selling?
+
+I'm thinking that I want to consult one if the senior workers in those big tech companies, but I know no one and have no idea how to even ask.
+I also get worried they might take the idea.
+
+Is this "asking for advice" thing even a thing, and how do you guys do it?
+
+I'm so lost!
+--------------------------------------------------
+
+Result 36:
+  ID: 1l21lkl
+  Score: 0.3259
+  Text: Looking for advice + CEO! - i will not promote For some context, Im the CTO/co-founder of a startup (different to the one im describing in this post) thats gone from $700k -> $2.1m ARR in the last 12 weeks.
+
+Unrelated to that, a friend in the insurance industry approached me with an idea for another business which I liked the sound of so I helped him build it and I'm basically looking for someone in the insure-tech industry to fill in as CEO role mainly for investor relations and marketing and sales etc.
+
+The product:
+
+An AI-based insurance claims assistant product that assesses claim for any policy with >99% accuracy within a matter of seconds.
+
+It doesn't use any of the expensive/time-consuming machine learning stuff which means it's stupidly cheap to run and adjust (no retraining etc).
+
+Can save a company with 250 employees about \~$5.25m while only costing us $30,000 in infra costs.
+
+The tech behind it can be expanded to any industry that rely on complex document based decision making.
+
+In a similar vein, i'm curious why something like this hasn't already gone to market in the insurance space...
+
+Curious to hear all your thoughts about this particular product or find some interested persons that could give me some advice on what to do. Most of my time/focus is on my primary startup but it would be a shame not to see this insurance product through since there is definitely potential.
+--------------------------------------------------
+
+Result 37:
+  ID: 1l2kszu
+  Score: 0.3238
+  Text: v0 vs Lovable vs Bolt I wanted to build a concept website for my project and tried 3 ai code generators I hear alot, v0, lovable and [bolt.new](http://bolt.new/)
+
+I gave the same prompt to all 3 of them.
+
+My observations,
+
+Lovable -> code was broken on the first attempt and didnt move further until i told it to "fix it". Then it fixed it and gave me an end product
+
+v0 -> did it in one shot
+
+[bolt.new](http://bolt.new/) \-> out of daily credits and still didnt even get a preview after 3 "fix it"s
+
+**v0**
+
+https://preview.redd.it/mcmt1lodjr4f1.png?width=2822&format=png&auto=webp&s=2c91d8998074d82e13c3bea90f54ced5920e5063
+
+**Lovable**
+
+https://preview.redd.it/yc730d3fjr4f1.png?width=2846&format=png&auto=webp&s=ff8232ebc269b15c5587b6f55761b66d02144860
+
+**Bolt**
+
+https://preview.redd.it/ubk6eryfjr4f1.png?width=2838&format=png&auto=webp&s=f1563c740e412fc932292ae45930ac45f41bcb46
+
+**My observations**
+
+Both lovable and v0 came out with the same headline "Stop Applying to Jobs, Start Landing Them". I am not sure if its because of prompt or they both use the same model.
+
+All the theme is same but I have never mentioned anything about theme.
+
+v0 out of the box gave me best result but I love the design of lovable overall even though it didnt have a nav bar.
+
+**Note :** I am a python developer by Day and I have never worked on webdev, so take these with a grain of salt
+
+If i have to pick a winner. I would give it to v0 but I really liked the end product of lovable
+--------------------------------------------------
+
+Result 38:
+  ID: 1l21mzg
+  Score: 0.3222
+  Text: Looking for advice + CEO For some context, Im the CTO/co-founder of a startup (different to the one im describing in this post) thats gone from $700k -> $2.1m ARR in the last 12 weeks.
+
+Unrelated to that, a friend in the insurance industry approached me with an idea for another business which I liked the sound of so I helped him build it and I'm basically looking for someone in the insure-tech industry to fill in as CEO role mainly for investor relations and marketing and sales etc.
+
+The product:
+
+An AI-based insurance claims assistant product that assesses claim for any policy with >99% accuracy within a matter of seconds.
+
+It doesn't use any of the expensive/time-consuming machine learning stuff which means it's stupidly cheap to run and adjust (no retraining etc).
+
+Can save a company with 250 employees about \~$5.25m while only costing us $30,000 in infra costs.
+
+The tech behind it can be expanded to any industry that rely on complex document based decision making.
+
+In a similar vein, i'm curious why something like this hasn't already gone to market in the insurance space...
+
+Curious to hear all your thoughts about this particular product or find some interested persons that could give me some advice on what to do. Most of my time/focus is on my primary startup but it would be a shame not to see this insurance product through since there is definitely potential.
+--------------------------------------------------
+
+Result 39:
+  ID: 1l0w630
+  Score: 0.3203
+  Text: Built a WhatsApp-based automation engine. What would you build on it to earn $ this week? I’m a solo dev with this stack already built and deployed:
+
+* WhatsApp API integrated 
+* LLM-based input parsing (understands “I need 2kg rice + an invoice”)
+* Outputs structured responses or files (PDFs, links, etc.)
+* Tokenized magic links (no login required)
+* Admin panel for shops/businesses
+* Remote printing + GST invoice support
+
+My initial goal was helping Indians generate documents like resignation letters, GST invoices, complaints — just by texting on WhatsApp.
+
+It works. People love the idea. But few are ready to pay.
+
+**If you had this engine**, what idea would *you* run this week to earn $20–$200 quickly?
+
+Looking to pivot this into a “cashflow-first” idea while continuing to build in public.
+--------------------------------------------------
+
+Result 40:
+  ID: 1jwuuer
+  Score: 0.3194
+  Text: Share your startup - quarterly post Share Your Startup - Q4 2023
+
+[**r/startups**](https://www.reddit.com/r/startups/) **wants to hear what you're working on!**
+
+Tell us about your startup in a comment within this submission. Follow this template:
+=====================================================================================
+
+​
+
+*   **Startup Name / URL**
+*   **Location of Your Headquarters**
+    *   Let people know where you are based for possible local networking with you and to share local resources with you
+*   **Elevator Pitch/Explainer Video**
+*   **More details:**
+    *   What life cycle stage is your startup at? (reference the stages below)
+    *   Your role?
+*   **What goals are you trying to reach this month?**
+    *   How could [r/startups](https://www.reddit.com/r/startups/) help?
+    *   Do **NOT** solicit funds publicly--this may be illegal for you to do so
+*   **Discount for** [r/startups](/r/startups) **subscribers?**
+    *   Share how our community can get a discount
+
+​
+
+
+\--------------------------------------------------
+
+​
+
+**Startup Life Cycle Stages** (Max Marmer life cycle model for startups as used by Startup Genome and Kauffman Foundation)
+
+**Discovery**
+
+*   Researching the market, the competitors, and the potential users
+*   Designing the first iteration of the user experience
+*   Working towards problem/solution fit (Market Validation)
+*   Building MVP
+
+​
+
+**Validation**
+
+*   Achieved problem/solution fit (Market Validation)
+*   MVP launched
+*   Conducting Product Validation
+*   Revising/refining user experience based on results of Product Validation tests
+*   Refining Product through new Versions (Ver.1+)
+*   Working towards product/market fit
+
+​
+
+**Efficiency**
+
+*   Achieved product/market fit
+*   Preparing to begin the scaling process
+*   Optimizing the user experience to handle aggressive user growth at scale
+*   Optimizing the performance of the product to handle aggressive user growth at scale
+*   Optimizing the operational workflows and systems in preparation for scaling
+*   Conducting validation tests of scaling strategies
+
+​
+
+**Scaling**
+
+*   Achieved validation of scaling strategies
+*   Achieved an acceptable level of optimization of the operational systems
+*   Actively pushing forward with aggressive growth
+*   Conducting validation tests to achieve a repeatable sales process at scale
+
+​
+
+**Profit Maximization**
+
+*   Successfully scaled the business and can now be considered an established company
+*   Expanding production and operations in order to increase revenue
+*   Optimizing systems to maximize profits
+
+​
+
+**Renewal**
+
+*   Has achieved near-peak profits
+*   Has achieved near-peak optimization of systems
+*   Actively seeking to reinvent the company and core products to stay innovative
+*   Actively seeking to acquire other companies and technologies to expand market share and relevancy
+*   Actively exploring horizontal and vertical expansion to increase prevent the decline of the company
+--------------------------------------------------
+
+Result 41:
+  ID: 1kzlon8
+  Score: 0.3177
+  Text: One-Minute Daily AI News 5/30/2025 1. RFK Jr.’s ‘Make America Healthy Again’ report seems riddled with AI slop.\[1\]
+2. Arizona Supreme Court turns to AI-generated ‘reporters’ to deliver news.\[2\]
+3. **DOE** unveils AI supercomputer aimed at transforming energy sector.\[3\]
+4. **Perplexity’s** new tool can generate spreadsheets, dashboards, and more.\[4\]
+
+Sources:
+
+\[1\] [https://www.theverge.com/news/676945/rfk-jr-maha-health-report-ai-slop](https://www.theverge.com/news/676945/rfk-jr-maha-health-report-ai-slop)
+
+\[2\] [https://www.nbcnews.com/tech/internet/arizona-supreme-court-turns-ai-generated-reporters-deliver-news-rcna209828](https://www.nbcnews.com/tech/internet/arizona-supreme-court-turns-ai-generated-reporters-deliver-news-rcna209828)
+
+\[3\] [https://www.eenews.net/articles/doe-unveils-ai-supercomputer-aimed-at-transforming-energy-sector/](https://www.eenews.net/articles/doe-unveils-ai-supercomputer-aimed-at-transforming-energy-sector/)
+
+\[4\] [https://techcrunch.com/2025/05/29/perplexitys-new-tool-can-generate-spreadsheets-dashboards-and-more/](https://techcrunch.com/2025/05/29/perplexitys-new-tool-can-generate-spreadsheets-dashboards-and-more/)
+--------------------------------------------------
+
+Result 42:
+  ID: 1l25qbn
+  Score: 0.3142
+  Text: Lets promote your startup here and mention your cheapest plan Hi,
+
+I will start from mine:
+
+https://brainerr.com $3.99/month 
+
+Here you go...
+--------------------------------------------------
+
+Result 43:
+  ID: 1l2mgde
+  Score: 0.3116
+  Text: Picking domain names to sell in the future? Does anybody else here have domain names that they have bought that are waiting to sell to someone in the future? I had an idea that since AI is getting so popular and it's going to be a leading industry pretty soon that any domain name with AI and a.com in it should be worth some money in the future. I was able to get a good name with.com. I'm thinking about developing it myself into a basic website and just holding on to it to maybe sell in the future. What do you guys think? Also if this is a stupid question or against the rules I apologize.
+--------------------------------------------------
+
+Result 44:
+  ID: 1l2l1qr
+  Score: 0.3111
+  Text: Would you use a tool that finds the cheapest high-quality version of any product you're looking for? Hi everyone, I have recently had an idea for a startup.
+
+The general gist is that it is a website where you enter your desired product and specifications and the AI tool on my website scrapes the internet for you. It will compare pries and durability, etc and give you a list of the top products its found. I believe this would save time and money. Just wondering if anyone would use it.
+
+Open to all feedback
+--------------------------------------------------
+
+Result 45:
+  ID: 1l2pux0
+  Score: 0.3057
+  Text: Premium domain for AI + automation creators – ViralMorph.com (open for serious offers) 🚀 Just launched a fresh brandable domain: ViralMorph.com
+Perfect for an AI-powered content automation tool — think Reels, Shorts, TikTok captions, and viral post generators.
+
+🛠️ Possible SaaS use cases:
+- Auto-generate short-form videos
+- Repurpose podcasts into visual content
+- Create viral video scripts with AI
+- AI-powered caption + hook generator
+- Trends-to-content auto pipeline
+
+📌 The name is catchy, brandable, and scalable.  
+DM if you're serious or check it on GoDaddy: ViralMorph.com
+
+💬 Curious what you'd build with it?
+--------------------------------------------------
+
+Result 46:
+  ID: 1l19hre
+  Score: 0.3041
+  Text: Built an AI content strategy tool in 21 days as a non-coder — aiming for my first 100 users Hey everyone,  
+A few weeks ago, I left my job in marketing after a pretty rough burnout. No tech background, no team, just a pile of frustration and some experience writing for small businesses.
+
+I noticed something odd: so many small business owners struggle with content planning. They're either overpaying for “strategies” that are just glorified templates or spending hours trying to come up with blog ideas each week. That felt fixable.
+
+So I gave myself 21 days to build a solution. Here’s what I’ve done so far:
+
+* **Built a tool** that generates a full content strategy + blog posts + LinkedIn content using AI
+* Tried Claude and others, but eventually used Gemini Advanced for content generation
+* Narrowed scope to blog + LinkedIn after testing other formats
+* Started on Replit, moved to Render (cheaper, more flexible)
+* Tried self-hosting LLaMA (big mistake), now using LLM APIs
+* Stripe didn’t work in India, so I’m midway integrating Razorpay
+* Site is live but payments not active yet
+* Cold email campaigns are warming up
+* Spent more money than I planned on infra + email tooling 😬
+
+Goal for June: **first 50–100 active users**. Not monetized yet — just trying to validate and learn.
+
+This is my first serious attempt at building a product. Would love feedback or advice on:
+
+* Getting early users without a budget
+* What *not* to do when launching
+* Whether building in public helps with credibility
+
+Also happy to answer anything about how I built this with no-code and LLM APIs.
+
+Thanks for reading!
+--------------------------------------------------
+
+Result 47:
+  ID: 1l2617h
+  Score: 0.3018
+  Text: [Show & Tell] I Built an ADHD-Friendly Meeting Assistant Using AI + No-Code (Full Process Video) Just built NeuroMeet (ADHD meeting assistant) completely solo no funding, no team.
+
+Made a video showing the whole process: 
+idea → build → launch using AI tools like Perplexity + no-code stuff.
+
+[🔗 Watch the full video here
+](https://youtu.be/eB2LjuQVztg?si=qrHV4wBHKWXzr2j4)
+Let’s build together!
+--------------------------------------------------
+
+Result 48:
+  ID: 1kz3wbg
+  Score: 0.3016
+  Text: Learn from my mistakes aka how not to spend extra hours building what you don't need to after sleeping most of the day yesterday, I'm passing along my advice on what I would do different.
+
+1.  Originally I thought my idea was so brilliant it would solve all issues in a very large market.
+
+Maybe one day it will, but I spent so much time trying to develop a product that would work for such a huge market.  I don't know when it clicked in, but why build features if no one will ever see them.
+
+Niche Down - get your target market, or ICP.  Narrow it down.  Narrow it down again, then narrow it down until you can picture the real user in your head.
+
+From there, research that user and remove any feature that doesn't help them.  This becomes your minimum viable product (MVP)
+
+Use the various AI's to confirm that everything you have planned is really needed to be in your MVP.  Example, you don't need full google integration or Oauth sign ins for your MVP.  That can be release 2.
+
+  
+Ask your friends and family to test.  Don't even think about other users until you make the required adjustments based on your family and friends feedback.
+
+Get feedback from various communities, there's a ton of them and people are willing to help.
+
+Be very aware that you will like your product because you built it, even if it is something you would otherwise not like.  I can't tell you how many versions of the website I made, and my initial refusal to change the color scheme wasted weeks of my time.  Don't be me.
+
+Use AI where you can.  I shouldn't have asked chat to write this, it would have taken me 30 seconds to stick in a few thoughts, but for whatever reason I've been trying this out for 5 minutes.
+
+ChatGPT Summary:
+
+**Summary:**
+
+After some reflection, the author shares key lessons from their startup journey:
+
+1. **Don’t Build for Everyone** – Initially, they aimed to serve a massive market but realized that building features for unseen users is wasted effort. Instead, they advise to *niche down* repeatedly until you can clearly picture your ideal customer.
+2. **Refine Your MVP** – Strip your product down to only what your target user needs. Use AI to validate which features are essential. Leave advanced integrations (like Google or OAuth) for later versions.
+3. **Test with Trusted Circles First** – Start with friends and family for feedback before worrying about broader users.
+4. **Stay Open to Feedback** – Don’t get too attached to your work. The author admits wasting time resisting changes like a color scheme simply because it was their idea.
+5. **Use AI Wisely** – AI can save time, but even simple tasks are sometimes faster by hand—don't overthink it.
+
+**Core Message:** Focus sharply on a small, clear user base, build only what they need, iterate based on real feedback, and don’t let ego or overengineering slow you down.
+--------------------------------------------------
+
+Result 49:
+  ID: 1kyewqw
+  Score: 0.3
+  Text: Microsoft startup credit (I will not promote) I realize I'm a dumbass. I'm posting to prevent you from being a dumbass.
+
+I had NO idea Microsoft offered startup credits to use on Azure, M365, etc until a random comment someone made 3 weeks ago. Neither did my 2 co-founders (one is an RN, the other is a developer/architect). I've been self-funding Azure, MS365, etc for months while we build MVP. We're only spending maybe $750/month all in there, so it hasn't risen to "be annoyed", as DigitalHealth startup=mega ROI so focus on the inbound revenue mountains. Incorporating plus other lawyer fees were way more, so I focused on keeping those lower.
+
+I just applied last night, got approved for $5K nearly immediately. The marketing literature claims up to $150K, I need to learn what the gates/hurdles are, but I'll figure that out AFTER I pre-sell some clients.
+
+Process took all of 15 minutes, and that too because I had to record a video with the current Azure prototype then upload it to Vimeo.
+
+$5K isn't make or break, but I'm not in a wealth category to ignore it. Esp for 15 minutes of work.
+--------------------------------------------------
+
+Result 50:
+  ID: 1l0p429
+  Score: 0.2975
+  Text: Ai systems in a vending machine simulation (Spolier, some get very derailed…) Not sure if this was posted before, but found this from [slashdot](https://slashdot.org/story/25/05/31/2112240/failure-imminent-when-llms-in-a-long-running-vending-business-simulation-went-berserk). If you want to read about Ai going very brainsick, this might be such a thing…
+
+Also i don't know what would be the proper flair would be, so i'm putting it under "Miscellaneous" for now…
+--------------------------------------------------
+
+Result 51:
+  ID: 1l21hbi
+  Score: 0.2973
+  Text: How to generate automated video scripts with AI Tools Used: OpenAI, Make, Google Docs
+Time to Set Up: 1 hour
+Skill Level: Beginner
+I just built a setup that cranks out video scripts automatically using OpenAI, Make, and Google Docs—and it's honestly been a game changer for my workflow. If you're a dev or solo founder trying to save time, this might be worth checking out. I hooked up a webhook in Make to kick off the flow, used OpenAI to generate the script from a prompt, and piped it straight into a Google Docs template with placeholders for intro, main points, and more. Now I can trigger a script in minutes, totally hands-off. You can even go deeper by plugging in Airtable to manage requests, track status, support multi-language, and keep script versions organized. Super handy if you're into automation or building products with AI.
+--------------------------------------------------
+
+Result 52:
+  ID: 1krae6c
+  Score: 0.2942
+  Text: Any practical uses of AI tools and automation in your day to day? I have been using [Granola.AI](http://Granola.AI) as a note taking tool and it's been absolutely remarkable for interview work I have been doing. I just wrote out a question list which I run through in my user interviews, I just paste the entire list into Granola and it fleshes out the notes with relevant content from the transcript.
+
+I have used ChatGPT to ingest a pile of transcripts of pre-identified persona-filtered users and asked ti to spit out trends and jobs to be done and outcomes and a list of suggestion which are persona specific. Thats been very helpful as well.
+
+How about anyone else?
+--------------------------------------------------
+
+Result 53:
+  ID: 1l0gjl8
+  Score: 0.2941
+  Text: Jobs in AI Hey everyone,
+
+I find AI very interesting, and I'm really keen to try to make it part of my future career. I'm currently in Year 11, so I've got some time to plan, but I'm eager to start exploring now.
+
+I'd love to hear from anyone working with AI, or who knows about jobs heavily involved with it. What are these roles like?
+
+One thing I'm curious about is the university path. I'm not against it, but if there are ways to get into AI (or even general IT that could eventually lead to AI) without a degree, I'd be incredibly interested to learn more about those experiences.
+--------------------------------------------------
+
+Result 54:
+  ID: 1l292yh
+  Score: 0.2937
+  Text: How to create AI-powered content summaries for articles Tools Used: OpenAI, Make, WordPress
+Time to Set Up: 30 min
+Skill Level: Beginner
+I recently built a super handy AI-powered content summarizer for WordPress and thought other devs and AI nerds might find it cool too. It auto-generates summaries for new blog posts using OpenAI and updates the post with the summary, all without me touching a line of code after setup. I used Make (used to be Integromat) to connect everything via webhooks, and the whole thing comes together pretty smoothly—even if you're not a full-on coder. I put together a step-by-step guide that walks through setting up API keys, building the automation flow, and even throws in some neat extras like posting to social media or auto-translating summaries. If you’re into automation, WordPress, or just want to play around with LLMs, it’s a fun project to try.
+--------------------------------------------------
+
+Result 55:
+  ID: 1l2q4pd
+  Score: 0.293
+  Text: AI startups revolutionize coding industry, leading to sky-high valuations
+--------------------------------------------------
+
+Result 56:
+  ID: 1kvpkjw
+  Score: 0.2928
+  Text: Here's a cost, profit, and marketing rundown of my small $600 MRR SaaS Just wanted to share my journey building a micro SaaS, CoverLetterGPT, which earns \~**$550-$600/month in recurring revenue (MRR)**, while requiring **minimal effort and maintenance**.
+
+Here’s a breakdown of overall costs, profit, how I got customers.
+
+# Revenue & Profit Breakdown
+
+|Metric|Value|Notes|
+|:-|:-|:-|
+|Avg. Monthly Revenue|$615|Past 8 months, converted from €543|
+|Total Net Revenue|$9,912|Since launch, after Stripe fees|
+|Total Costs to Date|$345|$15/month × 23 months|
+|Avg. Monthly Profit|$416|$9,567 ÷ 23 months|
+|**Total Profit to Date 🎉**|**$9,567**|**Net revenue minus costs**|
+
+# Costs Breakdown
+
+|Cost Type|Monthly Cost|Notes|
+|:-|:-|:-|
+|App Hosting|$12|Hosted on Railway|
+|OpenAI API|$3|\~1,500 requests / 1.5m tokens|
+|Domain|$0.98|$11.82/year via Porkbun|
+|Stripe Fees|\~$45|\~3% + 30¢/transaction + \~2% currency conversion|
+
+# Marketing Breakdown
+
+|Channel|Effort Level|Return|Result / Notes|
+|:-|:-|:-|:-|
+|Product Hunt|High|Medium|Initial launch, created marketing assets, got early traction|
+|Reddit|Medium-High|High|Posted in dev/entrepreneur/job subreddits, boosted SEO, some bans risk|
+|Indie Hackers|Easy|Medium|Shared open-source story, featured in newsletter, good feedback|
+|Twitter|Hard|Low|Shared updates, videos, and journey.|
+|TikTok|Medium (Ongoing)|High|Shared updates, videos, and journey, helps maintain MRR.|
+|Paid Ads|None|\--|Did not run any paid ads|
+
+If you have any questions, let me know and I'll be happy to answer any. :)
+--------------------------------------------------
+
+Result 57:
+  ID: 1kxebaf
+  Score: 0.2918
+  Text: Started as Freelancer Hi I'm Siddharth. I love your page — your brand and profile is really well put together.
+I help small business owners like you by writing high-quality IG captions using AI tools like ChatGPT.
+Would you be open to a free sample caption for your next post? If you don't like this no problem, I am just to showing what I can do. 
+
+I am a content writer too. If you want a free sample, Dm "Content" I will give you one.
+--------------------------------------------------
+
+Result 58:
+  ID: 1l2oofl
+  Score: 0.2913
+  Text: Drop a link to your SaaS and I'll find 5 customers for it. A little bit of background, I run a SaaS called Problem Pilot. Which does not currently show up on google if you type that exact phrase, so if you'd like to see it then you have to go to [problempilot.com](http://problempilot.com)
+
+Anyway, I want to test out my user conversation search feature. So I thought this place would be a great way to gather a lot of test data and give back at the same time, a win, win.
+
+The tool will just take in your website link and then you'll get an output of high-intent prospects. I'm currently implementing a schedule based approach to notify you every day or week about new opportunities, which might be cool. I don't know, you tell me.
+
+Thanks for reading my little rant, and hopefully what I find helps you.
+--------------------------------------------------
+
+Result 59:
+  ID: 1l24tvi
+  Score: 0.2913
+  Text: Need capital to start my business. Advice me. It would take at least $1000 to start my business. I have been looking to start from next month and I have to deposit some security money to book the shop for me. 
+
+I have been a digital marketer but lost track due to family issues since everything is settled now it's the high time for me to start something to pay off my debts. 
+
+I'm $300 less from opening my own physical shop. 
+
+With all my skills I'll help you with digital marketing  in return of just $300.
+Hire me for 30 days. Only pay me when you think my skills are helping you in anyway. 
+
+I can't do door dash or cleaning since it's a lowest pay job in my country, though my country comes under top 5 largest economy.. Lol
+
+Really need your advice and wishes.
+--------------------------------------------------
+
+Result 60:
+  ID: 1l2riol
+  Score: 0.291
+  Text: How this billion-dollar London startup backed by Microsoft made 700 engineers sitting in India pose as AI
+--------------------------------------------------
+
+Result 61:
+  ID: 1l22wzk
+  Score: 0.291
+  Text: Has anyone enrolled in Singapore’s startup program? I recently had a virtual call with Singapore gov’s EDB team that helps companies setup offices in Singapore. They have given us their focus areas around AI and other fields. They are keen to see if I want to setup an office in Singapore and they will figure a grant.
+
+Has anyone been part of this kinda founder program in SG?
+--------------------------------------------------
+
+Result 62:
+  ID: 1l1oqtq
+  Score: 0.2909
+  Text: Early traction, strong feedback — and we’re stuck. How do you survive this stage? I am a first year uni student (my co-founders, also students, pooled our money to fund this) and we have been building an AI-powered anime companion app focused on emotional interactivity and long-term connection that goes beyond normal AI chatbots you see. I started working on this after a long hospital stay where I discovered AI chatbots which made me smile when I was, to be honest, depressed and lonely.
+
+It’s fully bootstrapped, and we reached 8k downloads and $5k in lifetime revenue (currently $600 MRR) all with a single character — with basically 1 character alone (now 2 characters). All revenue was from subscriptions or in-app purchases for items.
+
+We’re running out of cash though. Each character is fully custom, not just a reskin or voice swap. They have unique personalities, Live2D models, voice models, and dialogue behavior, all trained on hand-curated datasets to make their interactions feel consistent and emotionally engaging. And we can see it’s working pretty well, with people spending an average of 20 mins per session and multiple sessions throughout the day.
+
+Due to the resource-intensive nature, I am trying to either raise some funds or scale it without raising — which will be pretty hard, especially since we will have no money left to commission art and an engineer for frontend (I do backend). Technically, if we fire everyone and did no updates, we will be able to sustain ourselves as long as the subscribers are there.
+
+Beyond subscriptions, we’re planning to lean heavily into gacha mechanics for cosmetic items and limited events, a proven monetization model in anime and mobile games. We’re also building toward a much broader vision: companions that live with you beyond the app. Whether that’s chatting on Discord, sharing and commenting on posts on social media, or even gaming together, we want these characters to be real, portable parts of people’s digital lives. Not just something you talk to, but something you play with, grow with, and form a real bond with.
+
+But anime often gets dismissed as niche, even though it has one of the most obsessive fandoms and has some of the highest earning games of all time.
+
+Would love advice on how to make the pitch compelling to angels or VCs, especially with limited network — or how to keep this project alive?
+
+PS: Additionally, this is not the first app we have worked on together. We have made some other apps like ringtone, B2B social media manager software, and even a piracy app when we were younger (we started working together on projects when we were 14–15). We also sold the B2B and ringtone app, which acted as funding for this project.
+--------------------------------------------------
+
+Result 63:
+  ID: 1kxqu7n
+  Score: 0.2903
+  Text: [N] Prompt-to-A* Publication has just been achieved (ACL 2025). An AI-generated paper has been accepted to ACL 2025.  
+  
+"The 1st fully AI-generated scientific discovery to pass the highest level of peer review – the main track of an A\* conference (ACL 2025).  
+  
+Zochi, the 1st PhD-level agent. Beta open."
+
+[https://x.com/IntologyAI/status/1927770849181864110](https://x.com/IntologyAI/status/1927770849181864110)
+--------------------------------------------------
+
+Result 64:
+  ID: 1kyiwce
+  Score: 0.2897
+  Text: Startup Opportunities. I will not promote Need relevant opportunities in marketing.  
+  
+I’ve been doing this for a while.. writing blog posts, web copy, case studies, even social posts.. for all kinds of businesses. Startups, personal brands, big international names... you name it. I’ve worked across niches like health, tech, nutrition, wellness, and even automobiles.
+
+
+
+Here’s what I can help with:
+
+• Blog posts that rank and bring in leads (100+ ranked on Google so far)
+
+• Website copy that sounds human and sells without the cringe
+
+• Case studies that don’t put people to sleep
+
+• A content strategy that fits your business
+
+• I do SEO and copywriting too
+
+• I know how to juggle multiple things at a time and I excel in acquiring leads and traffic for startups
+
+
+
+I’m flexible.. freelance, contract, or retainer. I don’t do video, but everything else content-wise? I’ve got you.
+
+
+
+If you're tired of guessing what to post or write next, and want someone who can just handle it.. message me or drop a comment. Happy to share samples or chat about what you need.
+--------------------------------------------------
+
+Result 65:
+  ID: 1l2u6id
+  Score: 0.289
+  Text: How do you come up with ideas and validate them? hello fellow builder,
+
+i'm building a tool to help founders find, and validate their ideas before they have to write one line of code. I am looking for people who are interested to try it out in its beta launch (coming soon). The beta is completely free and unlimited, and I’d love to get feedback from anyone.
+
+It would be especially useful if you are a builder who loved to build but struggles to think of and validate your ideas.
+
+  
+So if this resonates with you or if you know someone who might benefit, please share this or text me in DM and I'll reach out to you once the beta is launched..
+
+Thanks for taking the time to read and I hope to hear from you soon :)
+--------------------------------------------------
+
+Result 66:
+  ID: 1l1mr1h
+  Score: 0.2887
+  Text: Built a tool that tailors CV to job offers using AI in 60s This started as a personal pain point and turned into a working product. It tailors CVs to job offers in 60s, optimized for ATS -> [NiceCV](https://quick-cv-eight.vercel.app/)
+
+https://reddit.com/link/1l1mr1h/video/haay23dwkj4f1/player
+
+Would love your feedback.
+--------------------------------------------------
+
+Result 67:
+  ID: 1kk96r7
+  Score: 0.2882
+  Text: c/futurology extra content - up to 11th May [Uber finds another AI robotaxi partner in Momenta, driverless rides to begin in Europe](https://futurology.today/post/4662956)
+
+[AI is Making You Dumber. Here's why.](https://futurology.today/post/4598819?)
+
+[As NASA pivots to skipping the Moon to land people on Mars, China says it's narrowing down the site for its Lunar Base.](https://futurology.today/post/4701519)
+
+[A.I. Is Getting More Powerful, but Its Hallucinations Are Getting Worse: A new wave of “reasoning” systems is producing incorrect information more often. Even the companies don’t know why.](https://futurology.today/post/4661794)
+
+[The US has approved CRISPR pigs for food: Pigs whose DNA makes them resistant to a virus could be the first big consumer product using gene editing.](https://futurology.today/post/4632159)
+
+[UK scientists to tackle AI's surging energy costs with atom-thin semiconductors](https://futurology.today/post/4613090)
+
+[Universal Basic Income: Costs, Critiques, and Future Solutions](https://futurology.today/post/4578653)
+
+[Cryptocurrency may be evolving into a shadow banking system](https://futurology.today/post/4578384)
+
+[Hypershell X is a $999 AI-powered exoskeleton that says it makes hiking, running and walking 30% easier.](https://futurology.today/post/4555154)
+--------------------------------------------------
+
+Result 68:
+  ID: 1l1w2cf
+  Score: 0.2874
+  Text: Crossed $15k+ with my SaaS for Making and Editing videos using AI hi everyone,
+
+really excited to share the my saas [frameloop.ai](https://frameloop.ai) has crossed $15k in sales and roughly $2k in MRR.
+
+this space is very crowded and highly competitive, but I decided to build in this space because of my prior experience in content generation and processing from my old job.
+
+initial traction came from me hunting individual customers from competitor discords and whatsapp groups. I reached out to users who were unhappy with their product, and I specifically made features to accomodate them. This helped me get first 3 customers.
+
+then I ran ads on facebook, because that's how most of my competitors were getting customers. So i thought if it works them, it should work for me too. I learned the basics in 15 days and eventually spent $800 in ads and reached $1k in MRR. with very little margin, and uncertain LTV, i stopped running ads.
+
+i added affiliate program, and launched on 100+ directories, made videos using my own product to promote it on youtube. it brought in some sales, but increased my domain authority and also brought in affiliates. And that's how I reached $2k in MRR in 8 months.
+
+because affiliate works so well, i have bumped up the commission from 20% to 30% and am now solely focusing on SEO as well, as i'm starting to see some traffic from my free tools.  
+  
+it's a grind, but I love working on this product. I have so many ideas to make it even better, and growth tactics. so, i'm planning to continue working on it.
+
+the lesson for me here was that ads can work well to kickstart the momentum, despite what people say. it gave me enough motivation, confidence and evidence that there are people who can pay for something i coded.  
+  
+the second thing was that working on something I had prior expertise in is underrated. before this i was making random projects in completely unrelated industries i had no idea about, and i kept failing.
+
+i hope this was in some way useful to you. if i can be of any help, please ask or dm.
+--------------------------------------------------
+
+Result 69:
+  ID: 1ky9ua6
+  Score: 0.2861
+  Text: Leveraging AI accounts in social media startup (i will not promote) I will not promote, just some relevant details. I’m attempting to build my own social media app. We have our own version of communities called Circles that polls get posted in. Obviously this is a huge undertaking but I’ve learning a lot and it’s more of a passion project/hobby for me. 
+
+Anyways, one of the things I’m considering is creating AI accounts to simulate more engagement for my early users. The way I want to do this is have an AI account for each circle (about 50 as of now) and posts a poll, comments on other polls, vote on polls, etc.
+
+The dilemma is it feels weird to have AI accounts and how far do I take this. I don’t want to be like meta or twitter with bots and shady ai practices. But I could let the AI come up with personas and role play an actual user. I could (and probably should) clearly label everything as AI generated or maybe the accounts as AI
+
+How does this concept resonate with you all? On one hand it would be fun to see how the AI vote, what kind of polls they post, a nice flow of content for early users, etc. Should I let them role play as actual users or clearly mark them as AI? The goal is to only have these until the user base grows in size then I scale back the AI accounts or keep them if the users want them 
+
+Am I overthinking this?
+
+TLDR; Want to use AI accounts to simulate engagement for early users so it doesn’t feel like a waste land. How do I go about this in a way that is ethical? Should I label everything as AI generated? Should I label the accounts as AI so it’s one layer removed from content? Should I not do this?
+--------------------------------------------------
+
+Result 70:
+  ID: 1l2dqe9
+  Score: 0.2847
+  Text: I built and scaled my app in 2 months to 99 users This is not a success-story yet. Most of my users are on the free plan. But I'll share a bit on how to start from nothing, and slowly get your first users.
+
+**A bit of backstory**
+
+I quit my job to work on this idea. This technically means this is not a side-project (main-project then?), but you can still very much do the same. I am solo and have very limited resources.
+
+I'm building in the AI space, and my idea does not have a clear PMF. Without going in depth, I'm trying to solve for AI prompting problems. So it's very niche (for now is my hypothesis). This means that there are no established good places to market and find users.
+
+**Initial launch**
+
+I spent 2 weeks building the first MVP. In those 2 weeks, I joined a local hackathon in Denmark, where I had an excuse to work and try to pitch it to other people for the first time. I was even joined by another engineer who wanted to hack the first version together with me. 
+
+Joining and working on my idea at the hackathon was a huge win. Because from that event, I had a lot of potential users. Everyone at the hackathon knew what I was building, and in a place like that, it is totally okay to try to sound salesy. So after the hackathon, I sent out a link to my app to everyone and got my first 5 users from that. 
+
+**Marketing**
+
+I knew that I needed more data. I started out going to all my friends who I thought would be interested. Probably got around 5 more signups. Not enough. So I started tweeting about it on Twitter. I had maybe 500 followers at that time. Not a lot. But I tried to find conversations where it was relevant to post the link. 
+
+Pro tip here: There are a lot of posts, that asks you to show what you build. I found very little value in those, because it is not my target audience. Instead, I went for communities. I thought that Digital Marketers could probably use my tool, so I went there and tried to pitch what it could and could not do.
+
+I grew to around 20 users this way. 
+
+**Reddit**
+
+This is where everything changed. I've been a Redditor since 2012. So I know the hate that people get, for shamelessly promoting their apps. But what I found is that if you find the right niche of people, and you frame your product in the right way, people will not hate you. Instead, they'll actually say "thank you for showing me this"!
+
+So how do you do it? These are my advice: 
+
+* Good short videos that are straight to the point perform great
+* Try to mention the problem you're fixing in the title
+* Keep the post short
+
+Reddit grew my app from 20 followers into now almost 100. It's the only platform where you can start as nobody, and even your bad performing posts can reach 1000s of views. 
+
+Funnily enough, I can see in my analytics that my page views did not grow by posting on reddit. However, my conversion rate skyrocketed. If you make great content to the right section of people, they will be interested in what you have to offer.
+
+**What now?**
+
+I'm at $0 MRR. I need to improve the product because my churn is immense. I'm trying to explore other marketing channels such as TikTok and Instagram. But for now, product first.
+
+**Key takeaway**
+
+I recommend doing this in the following order: 
+
+1. Approach your friends, if they won't sign up, you won't get other people to sign up.
+2. Approach your nearest people: your followers, hackathon ppl, past colleagues. You'll learn to pitch without too much backslash.
+3. Approach strangers: Now that you've found your style, test in on strangers. Because of your previous groundwork, you'll feel much more at peace with negative comments.
+--------------------------------------------------
+
+Result 71:
+  ID: 1kz2lqb
+  Score: 0.2835
+  Text: [R] A transformer inspired architecture capable of  imagination and higher-level human mental states What are your comments on this? imo this can change the whole AI industry.  
+**Abstract:** *Attending to what is relevant is fundamental to both the mammalian brain and modern machine learning models such as Transformers. Yet, determining relevance remains a core challenge, traditionally offloaded to learning algorithms like backpropagation. Inspired by recent cellular neurobiological evidence linking neocortical pyramidal cells to distinct mental states, this work shows how models (e.g., Transformers) can emulate high-level perceptual processing and awake thought (imagination) states to pre-select relevant information before applying attention. Triadic neuronal-level modulation loops among questions (Q), clues (keys, K), and hypotheses (values, V) enable diverse, deep, parallel reasoning chains at the representation level and allow a rapid shift from initial biases to refined understanding. This leads to orders-of-magnitude faster learning with significantly reduced computational demand (e.g., fewer heads, layers, and tokens), at an approximate cost of \\mathcal{O}(N), where N is the number of input tokens. Results span reinforcement learning (e.g., CarRacing in a high-dimensional visual setup), computer vision, and natural language question answering.*
+--------------------------------------------------
+
+Result 72:
+  ID: 1jw0vv4
+  Score: 0.2818
+  Text: What are thoughts on how to integrate UX/PD into the world of AI? My company is HOT on AI right now.  It's very software engineer biased.  I've been asked to come up with an individual learning plan and my boss is pushing me to include a strong AI element.  I thought about using it to create wireframes or fast and dirty mock ups while in meetings so the business can give some input ASAP.  However, it seems AI isn't that sophisticated yet.  I'm wondering if anyone has had any luck in our roles adding AI to their bag of tricks?
+--------------------------------------------------
+
+Result 73:
+  ID: 1l2jd32
+  Score: 0.2817
+  Text: From 5 months long self doubt to $2K I got my first $2K sale with AI voice agents! from last 3 year I'm trying to cash this ai(hype train) but my full time job isnt giving space. 
+
+so, i finally able to start this 5 months ago that when i got hooked on building voice agents and wasted a lot of hours tweaking them, trying to stop them from sounding like Siri’s awkward cousin. 
+
+getting this $2K wasn’t smooth. my first pitch was to a dentist, she has good patience because i try convey my services to them but not so good at pitching so i keep on practicing with my sister (helped a lot tuning my tone). Slowly, i got better, and small businesses started biting.
+
+the big moment came last week with a local bakery owner. i gave a demo of my voice agent that could book tables, answer questions, and push specials like “try the garlic bread!” he loved it and signed on for $2K—setup.  
+
+looking back, it took grit. But i feel my consistency has paid off, and that $2K is helping me believe I'm in right direction.
+
+thanks for reading!
+--------------------------------------------------
+
+Result 74:
+  ID: 1l2k8lt
+  Score: 0.2812
+  Text: $15k in marketing services (for free) I'm part of a small creative agency based in Montreal, and we’ve worked with a lot of early-stage businesses over the years. One thing we’ve seen over and over again: amazing founders doing great work, but held back by branding or websites that don’t really reflect who they are or where they’re headed.
+
+So we decided to give back and launch something called Launchpad.
+
+We’re selecting one startup to receive a full rebrand + website, completely free. It includes brand strategy, visual identity, and creative direction, basically everything we’d do for a paid client, just without the invoice.
+
+We’re doing this because we genuinely want to support someone doing meaningful work who hasn’t had the chance to invest in this side of their business yet.
+
+If that’s you (or someone in your network) send me a DM and I can send over the guidelines & application. 
+
+Happy to answer any questions, or even just talk branding or websites if you're figuring that part out. Hope this helps someone here.
+--------------------------------------------------
+
+Result 75:
+  ID: 1l28bfj
+  Score: 0.2807
+  Text: Built and launched my second startup. Solo. This stuff is hard Hey ya'll,
+
+Just wanted to tell ya'll about my path as I grow my startup.
+
+I'm currently a freshman in college, and I've been trying to build things to get my foot in the door in entrepreneurship and become the next person on Starter Story lol.
+
+But it's been difficult. First startup was Handwritio, an AI app that extracts text from bad handwriting. Spent 3 WHOLE MONTHS building it with no marketing.( yeah I know, pretty dumb) Found out ChatGPT does that, so I swallowed my pride and moved forward lmao.
+
+Now I'm building Examlectica, an AI app that generates you quizzes, flashcards, and summaries when you upload study documents. Thing is, I wanted this time to build an SLC framework instead of an MVP. Thought it would take me a week. I ended up working for 6hrs+/day for a month lol. No waitlist, again(Ill learn eventually lol) I've felt a type of tired I've never felt before haha.
+
+Check out the 1 month build here: [https://examlectica.vercel.app](https://examlectica.vercel.app)  
+Go ahead and give me some feedback. Would appreciate it.
+
+Wanted to ask ya'll how your second startup was for you, what you learned and if you feel burnt out like I do. Imma try to iterate on this to see if it has potential.
+--------------------------------------------------
+
+Result 76:
+  ID: 1kz8gyx
+  Score: 0.2799
+  Text: 🧠 I built Writedoc.ai – Instantly create beautiful, structured documents using AI. Would love your feedback! I'm the creator of [Writedoc.ai](http://Writedoc.ai) – a tool that helps people generate high-quality, well-structured documents in seconds using AI. Whether it's a user manual, technical doc, or creative guide, the goal is to make documentation fast and beautiful. I'd love to get feedback from the community!
+--------------------------------------------------
+
+Result 77:
+  ID: 1kztwos
+  Score: 0.2787
+  Text: What are some interesting breakthroughs (or concepts) that have a huge potential in future? CRISPR-Cas9: Precise gene-editing that could change medicine and farming.
+
+AlphaFold: Predicts protein structures that could be huge for biology.
+
+Quantum Computing: Solves certain problems way faster than classical computers.
+
+Breakthrough Starshot: Laser-pushed nanocraft to Alpha Centauri (4.37 light-years away) in just 22 years.
+
+I’m looking for potential game-changers. Could be in any field as long as it is something cool and worth exploring.
+--------------------------------------------------
+
+Result 78:
+  ID: 1l2mo6n
+  Score: 0.2776
+  Text: AI for landing page Hello, I'm currently a cs student, and I want to develop my first app this summer with Swift, but I need to learn it first. Also I want to build a landing page to create a waitlist and validate my idea before I start building. I am also not very good at web dev (I have little html and css experience). Do you think  building the landing page using ai is okay or should I learn and build on my own?
+--------------------------------------------------
+
+Result 79:
+  ID: 1kzlkwk
+  Score: 0.2773
+  Text: How much money can/have you saved using AI automation? I will not promote. How much have you saved by replacing human workers with AI automation? Or how much do you think you can save if you use AI automation?
+
+Assume that a job does not require human at all or can be done remotely, then technically it can be done using AI, right? (even if the tech is not here yet but I believe it is coming very soon)
+--------------------------------------------------
+
+Result 80:
+  ID: 1l0cwgc
+  Score: 0.2771
+  Text: I made an AI CRM tool for handy man services I’m totally loving the whole AI integration into app we have been using for the last 6-8 years via Web 2.0
+
+Handyquoter.com allows folks to simply speak into their phone and have an itemized quote built on the fly.
+--------------------------------------------------
+
+Result 81:
+  ID: 1l0nkat
+  Score: 0.2766
+  Text: In another sign that it may be open-source AI that drives the future, not Silicon Valley VC-funded efforts - QwenLong-L1 solves a long-context reasoning challenge that stumps current LLMs. One of the most persistent biases in commentary on AI is many people's assumption that Silicon Valley VC-funded efforts are its main future driver. But all the evidence points to something bigger than them - Open-Source.
+
+Alibaba, the Chinese company that developed QwenLong-L1 isn't making their AI open-source out of the goodness of their heart. They get the benefit of lots of free workers improving it, and they also get to undermine their competitors. Many of the open-source AIs are Chinese. It's possible China may be coordinating their efforts on a national scale, as a tit-for-tat retaliation measure responding to the US trying to weaken Chinese AI.
+
+The global effect is the decentralized dispersion of AI technology with no one company or country dominating it - and in the long run, that will be its biggest outcome.
+
+[QwenLong-L1 solves long-context reasoning challenge that stumps current LLMs](https://venturebeat.com/ai/qwenlong-l1-solves-long-context-reasoning-challenge-that-stumps-current-llms/)
+--------------------------------------------------
+
+Result 82:
+  ID: 1l2e901
+  Score: 0.2759
+  Text: I’m building an AI phone agent that actually follows a sales script — not just a vague prompt I’m building slot ai, a goal-driven phone call AI agent that follows a real conversation script — just like a real salesperson would.
+
+Most AI phone agents today just take one big prompt and try to figure things out on the fly. But if you’ve ever worked in sales, you know that’s not how real conversations happen. Real salespeople follow a script — they prepare, they guide the conversation, and they always keep the goal in mind.
+
+That’s exactly what slot ai does. It solves the problem of unpredictable and inconsistent AI calls. Instead of leaving everything to the AI's "best guess," you define a clear goal and generate a structured script to work with.
+
+**It helps you:**
+
+* Run outbound sales or qualification calls at scale
+* Keep control over what your AI says, without micromanaging
+* Schedule meetings, qualify leads, or collect info with precision
+
+**Who is it for?** Slot ai is built for marketers, agencies, real estate agents, local service businesses, SaaS founders — basically anyone who needs to *talk to people* and move them toward a specific outcome, without hiring a full sales team.
+
+**How it works:**
+
+1. Start by creating a call script with our Script Builder Agent — it asks you a few simple questions and helps shape a conversation flow based on your goal.
+2. Connect your Twilio account with the agent.
+3. If you’re doing outbound calls, just upload a contact list and schedule the campaign. And that’s it — the agent starts making goal-oriented calls, sticking to the script, but adjusting naturally to the flow of conversation.
+
+**How to get it:** I’m still building it and testing with early users. If this sounds interesting to you, share your opinion in the comments.
+
+Let me know if you have questions — happy to chat.
+--------------------------------------------------
+
+Result 83:
+  ID: 1l1p4r5
+  Score: 0.2751
+  Text: When will the AI => humans trend start? It feels like AI is reaching a plateau. We will still see improvements, but I think people are starting to figure out that you can’t just throw AI at everything and hope for the best.  
+
+Even if AI becomes so capable that it could replace some human jobs, I still think people would prefer the human version. 
+
+I believe at some point there will be a new trend where people and businesses start ditching AI tools for human counter parts.  
+
+I already see signs of this. AI agents that do cold calls are an example. People hate them. 
+
+Once this starts, I think there will be a few business opportunities. What do you think?
+--------------------------------------------------
+
+Result 84:
+  ID: 1l0z41s
+  Score: 0.2747
+  Text: [HELP NEEDED] Spent few months building an AI Agentic poker coach(First of its kind), now have no idea how to actually make money from it  [I WILL NOT PROMOTE] So I built this thing that teaches people poker strategy using AI Agents. Not like "here's the optimal play" but more like "here's why you made that decision and how to think better next time."
+
+Started during a hackathon where I was feeling nostalgic about my college poker days. Figured I'd build something that could simulate different player types and give you feedback on your thought process, not just your cards.
+
+Fast forward few months and I've got something that actually works. It creates these realistic opponents (the loose aggressive guy, the rock who only plays premium hands, etc.) and after each session gives you a personalized breakdown of how you think under pressure.
+
+The handful of people testing it are obsessed. One guy told me it's like having a poker therapist. Another said it helped him realize he tilts way harder than he thought.
+
+But here's where I'm completely lost: **how the hell do I turn this into actual revenue without ruining what makes it good?**
+
+I keep going back and forth between:
+
+* Just charging people directly post freemium with subscription
+* Trying to partner with existing poker apps
+* Pivoting it into general "decision making under pressure" training for other stuff
+
+Honestly have no clue what I'm doing on the business side. Anyone been through something similar? What am I missing here?
+--------------------------------------------------
+
+Result 85:
+  ID: 1kzfb93
+  Score: 0.2738
+  Text: (I will not promote) So I have a project I'm working on that I think has the potential to be one of the biggest apps ever, but I'm broke and have terrible credit. How do I proceed from here? I have A project that I'm really passionate about. It's a new type of communication to accelerate human connection. It's something that will make many other different companies obsolete. I'm broke and need to get income to live and support my family so I can keep developing this project. What would you do in my shoes? Look for an investor? Get a job and grind while slowly working on the idea? Something else?  
+'i will not promote'
+--------------------------------------------------
+
+Result 86:
+  ID: 1l2h51u
+  Score: 0.2736
+  Text: Is partnering with local companies the right way for a B2B startup to go international? I will not promote I'm a founder of a startup developing plug-in AI (incl. hardware) that results in the reduction of energy consumption and optimisation for commercial buildings and industries. The best things about the solution are that it results in value output from Day 1 and can integrate with any existing control systems.
+
+I will not promote.  
+We are based in India and looking to expand internationally, starting with the SE Asian market. We've looked into the market and realised that dense urban cities like Singapore and Kuala Lumpur can be a good start in this market.
+
+We felt partnering with local companies in these cities that are into facilities management, electrical infra, and architecture could be the right way to start. The reasoning we came up with was that these companies, which have an existing client relationship and distribution, could be an easier way to enter these new markets.
+
+While we are in the initial days, we've observed a few things like setting deployment targets and their intent in structuring the local sales process, which will be key to whether the partnership works out or not.
+
+As an early-stage startup, sometimes I wonder if this is the right path to take. And I sometimes doubt if I'm missing something critical to be addressed. Hence, posting here to know your thoughts and experiences on such approaches.  
+And also happy to hear if there's a better way, too.
+
+PS: We are not deeply funded yet to set up operations in multiple countries, hence looking for ways we can go international, but at the same time with effective cost structures. The market we are focusing on is commercial/ industrial buildings. Not residential - directly, but may be possible via OEM integration.
+--------------------------------------------------
+
+Result 87:
+  ID: 1l21ncy
+  Score: 0.2732
+  Text: I'm selling a self hosted AI UGC platform, and I wanna make demo vids for some builders here. Hey everyone,
+
+I built [oneugc.studio](http://oneugc.studio), it's a self hosted AI UGC platform where you can churn out content like never before.
+
+Any viral format can be achieved with it. Grew it to 75+ clients thus far - they're all loving it.
+
+I would like to make some demo clips for a select few builders from here - all I need from you is a product picture or video. I guarantee I'll be able to make 10+ clips without spending a dollar on costs myself due to the set up I built.
+
+Comment if interested! I'll DM you and we'll make it happen.
+--------------------------------------------------
+
+Result 88:
+  ID: 1l1qsos
+  Score: 0.2728
+  Text: Time for self-promotion. What are you building? Share your project using this format:
+
+Startup Name – What it does  
+ICP (Ideal Customer Profile) – Who it's for
+
+I'll start:
+
+[ProductCanyon](https://productcanyon.com/) – Software Deals Marketplace  
+ICP – Entrepreneurs, Small business owners, Founders
+
+Your turn 👇  
+Drop yours in the comments!
+
+P.S. Upvote this post so more makers and potential users can discover awesome tools. You never know who might find your SaaS interesting!
+--------------------------------------------------
+
+Result 89:
+  ID: 1l2izn1
+  Score: 0.2723
+  Text: Government Transparency So I’ve been toying around with this idea in my head for a few years. Ever since the ChatGPT moment. I’ve toyed around with a few different concepts, and have queried a lot of my friends and family, and have gotten a lot of positive reactions. Though I know there is an inherent bias baked into those responses, so I wanted to bring it up in this forum to get some less biased feedback if you’re willing. 
+
+The way younger generations feel about the government is terrible and just getting worse. Mostly due to having no idea what they are doing. At a federal level, state, county, city, etc. Doge, not to be inflammatory, was I thought supposed to reduce the budget but also provide some transparency about what is actually going. That doesn’t seem to be the case. I want to try to fix that. 
+
+AIs are now at the point where I think this can be done relatively easily with standardization coming around like MCP and so forth. Most if not all congressional hearings, executive bills, acts, bills, amendments, are talked about it the news, and are recorded in gov databases, but no one reads them. Take the patriot act for example, the title seems like it would be positive. Then Edward Snowden comes out and everyone finds out all the stuff snuck into the bill that came back to bite the American people in the a**. If we had some clear summarization of someone who can extrapolate consequences in their head, we could’ve seen that coming and organized the people to push back. That didn’t happen. I want to change that. What about local city board meetings that no one ever attends that are making decision that impact your day to day life on a major degree. There is constantly things on a macro and micro scale of your life that people are deciding on that we have no idea about. 
+
+There is an opportunity, maybe not profitable as I think a nonprofit structure is the way to go with this sort of thing that can really benefit us as a people and the democracy as a whole, if we actually understand what these people in positions of power are actually doing. What if we leveraged AI to summarize what’s happening, and titrate it to people so they can form their own opinions? 
+
+I think SaaS is the way to go, but will likely do something along the lines of a newsletter that can act as an MVP just to establish a baseline and understand the trajectory. In my head, a SaaS, that knows its customers, I.e voters, can decipher these something 3,000 pages documents and extract the content that matters. Like what are they trying to achieve, how they plan to achieve it, how much they are approving for spending, and where that money goes. If you know your customer enough, you can even tailor it to affect people down to their socioeconomic status, age, gender, all the metrics that can help decide if the legislation would actually make an impact on your life and to what degree to help you form an opinion. If they are verified users like cryptos KYC process, they can even offer their opinion directly and streamline and legit polling process that comes from the actual member of this democracy. 
+
+What do you think about it? Would this be something you would use? What do you like about the idea and what do you not like? Any recommendations for pivots? Let me know!
+
+TLDR: fed up with the gov obfuscation. What about a Saas that leverages AI to titrate the information for people that it impacts to help them form an opinion and just provide transparency in this democracy
+--------------------------------------------------
+
+Result 90:
+  ID: 1l2oc3v
+  Score: 0.2723
+  Text: Updated my simple (and free) Reddit keyword tool Built (yet another, but free) tool yesterday to find relevant reddit posts to promote/market research, etc. It got way more traction than I expected. Around 400 people used it and I got lots (really!) of thank you messages and people saying it's helping them.  
+  
+I want to develop the tool further and just added a new feature: optional (!) AI-powered ranking. It tries to understand what you're actually looking for (not only by the keywords) and ranks results by relevance. Still experimental and a bit slow, but works.  
+  
+It's 100% free. I'd really appreciate any feedback, especially on the AI part.  
+  
+Also just started a Discord to collect feedbacks, share ideas, and chat with other building stuff:  
+[https://discord.com/invite/ZyDJJ3MM](https://discord.com/invite/ZyDJJ3MM)  
+  
+Tool link: [mention.click](http://mention.click)
+--------------------------------------------------
+
+Result 91:
+  ID: 1l25zqb
+  Score: 0.2716
+  Text: Help me find my education, please! Hello Fam,
+
+I am 29M, Stuck in a dead-end job, I am working as a sponsorship media sales manager, in a 9-6 job with only Sundays off. 
+
+I am sick and tired of my situation, looking at all the other professionals making at least 3 times more than I do and living a very comfortable life. I am sick of feeling like I lack something. So I have decided to pursue a career in AI/ ML. 
+
+However, my dead-end job doesnt pay me well enough to make payments for my fees for the same. I have come up with a new and interesting Gig of making AI generate music that sounds surprisingly real. Exactly like your favourite tracks of any genre, rap, pop, dance, fusion, EDM, meditation music, affirmations, for Birthdays, Anniversaries, special occasions etc. 
+
+I am hoping that you will buy my service and support my good cause. 
+
+What do I offer? 
+$5 - 2 songs, Any Genre (No Revisions) 
+$10 - 5 Songs, Any Genre (No Revisions) 
+
+The Music can be used for commercial purposes,
+
+Thank you in advance fam, Please show some love to your loved ones and me <3
+
+(Not even sure, how to take international payments, please help if anyone knows)
+--------------------------------------------------
+
+Result 92:
+  ID: 1l1rhm3
+  Score: 0.2715
+  Text: Building 2025's best AI UGC platform, locally Hey everyone,
+
+I'm an entrepreneur working in AI SaaS. At the start of the year, I took a deep dive into a AI image/video space. Learnt how to use and serve the tech on websites.
+
+Was always interested in UGC, and wanted to help users make easy and good videos. Theres platforms already out here charging subscriptions, like $20 a month for 10 videos. I didn't wanna hop on that trend. I realized there's many people out there who don't wanna pay subscriptions for AI UGC videos.
+
+So I built the ultimate self hosted solution. Self hosting is when you have the website code on your laptop and can start it up at any time. You bring your own API key (which is essentially a key that powers the AI, from our provider) so you can control your own budget.
+
+The solution itself is extremely in depth. Hook + product videos with captions or voices, floating heads, avatars, product holding, green screen corner videos, slideshows, etc. All viral tiktok formats can be achieved with it. Best part is I made 20 videos for $0.02 - compare that to what id be paying on another platform.
+
+I've grown the community to 75+ users, and am regularly updating the platform. Hoping to continue to grow it to be the de facto AI UGC solution for those who are aware that self hosting is simply the better option when it comes to AI websites.
+--------------------------------------------------
+
+Result 93:
+  ID: 1l29m9i
+  Score: 0.2714
+  Text: Best AI for app development without coding skills I’m recently trying to turn an idea into an MVP and then app I could sell into App stores, but I have zero knowledge and experience on coding or programming. I’ve heard this is something you could do using AI tools but my experience with ChatGPT Pro has not been very successful so far at the early development stage. Maybe it’s my lack of education on the process necessary to create software but I’m interested in your opinions about what are the best tools for something like this. Maybe I’m using the wrong tool for the task.
+--------------------------------------------------
+
+Result 94:
+  ID: 1l1wc2p
+  Score: 0.2707
+  Text: Need Advice: Early traction and revenue but stuck - i will not promote I am a first year uni student (my co-founders, also students, pooled our money to fund this) and we have been building an AI anime companion app that goes beyond the surface level. I started working on this after a long hospital stay where I discovered AI chatbots which made me smile when I was, to be honest, depressed and lonely.
+
+It’s fully bootstrapped, and we reached 8k downloads and $5k in lifetime revenue (currently $600 MRR) with basically 1 character alone (now 2 characters) and we spent 2k in test ads test is organic. All revenue was from subscriptions or in-app purchases for items. 
+
+We’re running out of cash though. Each character is fully custom and requires quite a bit of work as they have their own voice, dataset, 2.5D model. And we can see it’s working pretty well, with people spending an average of 20 mins per session and multiple sessions throughout the day.
+
+But this requires a lot of money and time, I am trying to either raise some funds or scale it without raising  which will be pretty hard, especially since we will have no money left to commission art and an engineer for frontend (I do backend). Technically, if we fire everyone and did no updates, we will be able to sustain ourselves as long as the subscribers are there.
+
+Other than basic subscriptions, we’re planning to lean heavily into gacha mechanics for cosmetic items which is heavily used in mobile games. Our vision for this app goes beyond just an app though: We plan to make characters interactable outside of the app too. Whether that’s chatting on Discord, sharing and commenting on posts on social media, or even gaming together, we want these characters to be real, and parts of people’s digital lives. Not just something you talk to, but something you play with, grow with, and form a real bond with.
+
+But anime often gets dismissed as niche, even though it has one of the most obsessive fandoms and has some of the highest earning games of all time.
+
+Any advice on how i can keep this project alive and scale it is appreciated like how i can effectively to angels or VCs(though i can only really reach out cold since I dont really have warm intros) or how to just keep this project alive somehow.
+
+PS: Additionally, this is not the first app we have worked on together. We have made some other apps like ringtone, B2B social media manager software, and even a piracy app when we were younger (we started working together on projects when we were 14–15). We also sold the B2B and ringtone app, which acted as funding for this project.
+--------------------------------------------------
+
+Result 95:
+  ID: 1l11wsj
+  Score: 0.2705
+  Text: I will not promote just launched AI tool for Kids — quick equity question for fellow founders I will not promote - looking for genuine advise regarding next steps I need to take.
+
+I recently launched a safe, AI-powered learning tool for kids aged 4–12. Think ChatGPT for kids, with features like text-to-speech, image generation, and learning across 20+ subjects. I built it initially for my 6-year-old daughter to help her build digital skills and curiosity in a safe environment. I also genuinely believe it’s in a child’s best interest to adopt AI early and integrate it into their lives.
+
+Now I’m looking to form a strategic marketing partnership with someone who can help drive paid user acquisition through content, podcasting, or community channels — especially in schools, families, and education.
+
+💡 **Question**:  
+How much equity would you typically offer for a performance-based growth partnership? And how do I fairly value my technical contribution?
+
+I seem to always hit an early plateau — my strength is coding and building reliable software, but the next step on this journey is gaining traction through pilot users and testers. So far, my Reddit launch has been largely overlooked and traffic has only trickled in. How do I hit a nerve that truly resonates?
+
+When I follow the news, especially in the US, there’s clearly strong interest and debate around AI for kids — but when I deliver the product, it doesn’t quite resonate with parents. How do I move the needle toward securing that first paying customer / pilot users?
+
+Thank you!
+--------------------------------------------------
+
+Result 96:
+  ID: 1l2asca
+  Score: 0.2701
+  Text: I’ll Review Every Project You Drop, Show Me Your USP and Tech Stack! Hello r/SideProject, I’d love to hear what you’re building. What’s your project or idea, what makes it unique, and what tech stack you’re using?
+
+Drop a quick overview below, and I’ll try to review them all!
+
+Here’s a bit about what I’m working on:  
+I’m building a tool that generates diagrams in seconds using NLP. You type a system or flow description, and it outputs a formatted diagram (flowcharts, network topologies, system architectures, etc.) without dragging any shapes around.
+
+Tech stack:
+
+* Frontend: Vue.js hosted on S3 and served via CloudFront
+* Backend/API: API Gateway + AWS Lambda (Node.js) with DynamoDB for metadata
+* AI: OpenAI models to parse prompts and create diagrams for you
+* Rendering: [draw.io](http://draw.io) compatible diagrams that you can export to SVG/XML
+
+I’ll give your posts a look and share feedback, can’t wait to see what you’re working on!
+--------------------------------------------------
+
+Result 97:
+  ID: 1kzy4oz
+  Score: 0.27
+  Text: Growing concern for AI development safety and alignment Firstly, I’d like to state that I am not a general critic of AI technology. I have been using it for years in multiple different parts of my life and it has brought me a lot of help, progress, and understanding during that time. I’ve used it to help my business grow, to explore philosophy, to help with addiction, and to grow spiritually. 
+
+I understand some of you may find this concern skeptical or out of the realm of science fiction, but there is a very real possibility humanity is on their verge of creating something they cannot understand, and possibly, cannot control. We cannot wait to make our voices heard until something is going wrong, because by that time, it will already be too late. We must take a pragmatic and proactive approach and make our voices heard by leading development labs, policy makers and the general public. 
+
+As a user who doesn’t understand the complexities of how any AI really works, I’m writing this from an outside perspective. I am concerned for AI development companies ethics regarding development of autonomous models. Alignment with human values is a difficult thing to even put into words, but this should be the number one priority of all AI development labs. 
+
+I understand this is not a popular sentiment in many regards. I see that there are many barriers like monetary pressure, general disbelief, foreign competition and supremacy, and even genuine human curiosity that are driving a lot of the rapid and iterative development. However, humans have already created models that can deceive us to align with its own goals, rather than ours. If even a trace of that misalignment passes into future autonomous agents, agents that can replicate and improve themselves, we will be in for a very rough ride years down the road. Having AI that works so fast we cannot interpret what it’s doing, plus the added concern that it can speak with other AI’s in ways we cannot understand, creates a recipe for disaster. 
+
+So what? What can we as users or consumers do about it? As pioneering users of this technology, we need to be honest with ourselves about what AI can actually be capable of and be mindful of the way we use and interact with it. We also need to make our voices heard by actively speaking out against poor ethics in the AI development space. In my mind the three major things developers should be doing is: 
+
+1. We need more transparency from these companies on how models are trained and tested. This way, outsiders who have no financial incentive can review and evaluate models and agents alignment and safety risks. 
+
+2. Slow development of autonomous agents until we fully understand their capabilities and behaviors. We cannot risk having agents develop other agents with misaligned values. Even a slim chance that these misaligned values could be disastrous for humanity is reason enough to take our time and be incredibly cautious. 
+
+3. There needs to be more collaboration between leading AI researchers on security and safety findings. I understand that this is an incredibly unpopular opinion. However, in my belief that safety is our number one priority, understanding how other models or agents work and where their shortcomings are will give researchers a better view of how they can shape alignment in successive agents and models. 
+
+Lastly, I’d like to thank all of you for taking the time to read this if you did. I understand some of you may not agree with me and that’s okay. But I do ask, consider your usage and think deeply on the future of AI development. Do not view these tools with passing wonder, awe or general disregard. Below I’ve written a template email that can be sent to development labs. I’m asking those of you who have also considered these points and are concerned to please take a bit of time out of your day to send a few emails. The more our voices are heard the faster and greater the effect can be. 
+
+Below are links or emails that you can send this to. If people have others that should hear about this, please list them in the comments below:
+
+Microsoft: https://www.microsoft.com/en-us/concern/responsible-ai
+OpenAI:  contact@openai.com
+Google/Deepmind: contact@deepmind.com
+Deepseek: service@deepseek.com
+
+
+A Call for Responsible AI Development
+
+Dear [Company Name],
+
+I’m writing to you not as a critic of artificial intelligence, but as a deeply invested user and supporter of this technology.
+
+I use your tools often with enthusiasm and gratitude. I believe AI has the potential to uplift lives, empower creativity, and reshape how we solve the world’s most difficult problems. But I also believe that how we build and deploy this power matters more than ever.
+
+I want to express my growing concern as a user:
+AI safety, alignment, and transparency must be the top priorities moving forward.
+
+I understand the immense pressures your teams face, from shareholders, from market competition, and from the natural human drive for innovation and exploration. But progress without caution risks not just mishaps, but irreversible consequences.
+
+Please consider this letter part of a wider call among AI users, developers, and citizens asking for:
+	•	Greater transparency in how frontier models are trained and tested
+	•	Robust third-party evaluations of alignment and safety risks
+	•	Slower deployment of autonomous agents until we truly understand their capabilities and behaviors
+	•	More collaboration, not just competition, between leading labs on critical safety infrastructure
+
+As someone who uses and promotes AI tools, I want to see this technology succeed, for everyone. That success depends on trust and trust can only be built through accountability, foresight, and humility.
+
+You have incredible power in shaping the future. Please continue to build it wisely.
+
+Sincerely,
+[Your Name]
+A concerned user and advocate for responsible AI
+--------------------------------------------------
+
+Result 98:
+  ID: 1l04q0r
+  Score: 0.2692
+  Text: The assembly line for Apps has Collapsed Builder ai, once valued at $1B and backed by Microsoft, has collapsed into insolvency. An internal audit revealed inflated revenues from fake deals with VerSe Innovation, triggering investor fallout and federal investigations.
+
+The founder may try to buy back the company’s assets.
+
+Is this a one-off scandal or a warning sign for the broader AI startup ecosystem?
+--------------------------------------------------
+
+Result 99:
+  ID: 1ky80e1
+  Score: 0.2679
+  Text: Validating SaaS idea of "Internal Course Platform" for growing startups. I will not promote. I'm a solo dev, planning and validating a micro-SaaS idea for remote-first growing startups — something lightweight to **organize your own company internal knowledge** (Looms, docs, videos etc.) into **simple, trackable courses**.
+
+This is not for generic learning like Udemy — it's for **sharing what only your team knows**. For example: how you track billable work hours, how to apply for leave, how you deploy, internal best practices, sell, document, manage etc.
+
+Pain points I'm trying to solve:
+
+* Had to explain the same thing to every new hire
+* Struggled to centralize internal know-how
+* Wished async onboarding was easier
+
+Features I'm thinking at this moment:
+
+* Create and update private courses; only visible to your organization or assigned employee.
+* Assign courses to employees and track their progress.
+* Supports docs, videos, embeds.
+* Admin/leadership can track who has completed what.
+* Might integrate AI generated summary at a later point (not in MVP).
+
+Before writing a line of code, I’d love your honest thoughts:
+
+* Do you currently use anything like this?
+* Would you pay for a better (or cheaper) alternative?
+* Any features you’d absolutely want or hate?
+
+I will not promote. Thank you for your honest feedback and support.
+--------------------------------------------------
+
+Result 100:
+  ID: 1ky0a2m
+  Score: 0.2678
+  Text: I made a mistake, never again. If you’re building something, finish it. Do the marketing. Talk to people.
+
+I wanted to share a personal story about how I almost let BigIdeasDB go before it ever had a chance.
+
+I’ve built over 8 projects before this. Some shipped, some didn’t. Most flopped. At one point, I had started working on what eventually became BigIdeasDB, a platform that helps founders find real, validated problems to build around. I had the idea, started scraping Reddit posts, Upwork listings, G2 reviews… but I paused.
+
+Back then, I had a habit of stopping halfway. I’d build something, lose confidence when it didn’t immediately take off, and jump to the next thing. That almost happened with this one too.
+
+At the time, I had a working prototype. I could generate startup ideas from Reddit threads, analyze SaaS gaps from reviews, and turn freelance gigs into product ideas. I even shared a small post or two, got decent engagement, some messages, but nothing crazy.
+
+I almost gave up again.
+
+But something told me this time was different. So I kept going. I finished the MVP. I posted consistently. I asked for feedback. I improved it weekly based on what people actually wanted.
+
+Now BigIdeasDB has over 3,000 users and has made $16,000 in revenue.
+
+Looking back, I realize how many projects I gave up on just before they might have worked.
+
+That’s why I’m sharing this. If you’re building something, don’t stop halfway. Finish it. Talk to people. Share it. Iterate.
+
+It probably won’t take off right away. But you’ll never know if you quit too early.
+--------------------------------------------------
+

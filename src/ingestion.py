@@ -19,11 +19,24 @@ reddit = praw.Reddit(
 
 def scrape_reddit(scrapes_per_subreddit: int) -> str:
     
-    
-    
     output_dir_base = "/data/users4/sdeshpande8/Reddit-Crawler/runs"
     
+    #create a directory for the current run
+    current_time = datetime.now().strftime("%Y-%m-%d_%H")
     
+        ## if a folder with the current time exists, skip the scraping and return the path to the existing folder
+    if os.path.exists(os.path.join(output_dir_base, current_time)):
+        return os.path.join(output_dir_base, current_time)
+    
+    os.makedirs(os.path.join(output_dir_base, current_time), exist_ok=True)
+    
+    #path to the current run
+    current_run_path = os.path.join(output_dir_base, current_time)
+    
+    # Save the Pinecone-formatted results
+    raw_scraps_filename = os.path.join(output_dir_base, current_time, f"raw_scrap_results.json")
+    
+
     pinecone_formatted_results = []
     for subreddit in SUBREDDITS:
         print(f"Fetching from r/{subreddit}...")
@@ -45,15 +58,7 @@ def scrape_reddit(scrapes_per_subreddit: int) -> str:
         except Exception as e:
             print(f"Error fetching from r/{subreddit}: {e}")
             
-    #create a directory for the current run
-    current_time = datetime.now().strftime("%Y-%m-%d_%H")
-    os.makedirs(os.path.join(output_dir_base, current_time), exist_ok=True)
-    
-    #path to the current run
-    current_run_path = os.path.join(output_dir_base, current_time)
-    
-    # Save the Pinecone-formatted results
-    raw_scraps_filename = os.path.join(output_dir_base, current_time, f"raw_scrap_results.json")
+
     
     with open(raw_scraps_filename, "w", encoding="utf-8") as f:
         json.dump(pinecone_formatted_results, f, ensure_ascii=False, indent=2)
