@@ -6,8 +6,7 @@ import os
 
 def main():
     
-    query_file_path = "/data/users4/sdeshpande8/Reddit-Crawler/Ideation_Query.txt"
-    current_run_path = scrape_reddit( scrapes_per_subreddit=100)
+    current_run_path = scrape_reddit( scrapes_per_subreddit=10)
     
     # check if vector search results already exist. If yes then skip creation of vector database and search
     if os.path.exists(os.path.join(current_run_path, "vector_search_results.txt")):
