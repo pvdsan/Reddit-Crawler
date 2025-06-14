@@ -22,7 +22,7 @@ def scrape_reddit(scrapes_per_subreddit: int) -> str:
     output_dir_base = "/data/users4/sdeshpande8/Reddit-Crawler/runs"
     
     #create a directory for the current run
-    current_time = datetime.now().strftime("%Y-%m-%d_%H")
+    current_time = datetime.now().strftime("%Y-%m-%d_%H_%M")
     
         ## if a folder with the current time exists, skip the scraping and return the path to the existing folder
     if os.path.exists(os.path.join(output_dir_base, current_time)):

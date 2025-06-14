@@ -1,0 +1,107 @@
+# Reddit Tech Ideas Crawler Documentation
+
+## Project Overview
+This project is a sophisticated system designed to crawl, analyze, and retrieve technology-related ideas from Reddit. It combines web scraping, vector database storage, and AI-powered analysis to process and extract valuable insights from Reddit posts.
+
+## System Architecture
+
+### 1. Data Collection Layer
+- **Component**: `ingestion.py`
+- **Purpose**: Handles Reddit data collection using PRAW (Python Reddit API Wrapper)
+- **Key Features**:
+  - Scrapes posts from specified subreddits
+  - Configurable number of posts per subreddit
+  - Stores raw data in JSON format
+  - Implements rate limiting and error handling
+  - Creates timestamped run directories for data organization
+
+### 2. Vector Database Layer
+- **Component**: `create_vector_database.py`
+- **Purpose**: Converts text data into vector embeddings and stores them in a vector database
+- **Key Features**:
+  - Processes raw Reddit posts
+  - Creates vector embeddings for semantic search
+  - Implements batch processing for efficiency
+  - Stores data in a vector database for quick retrieval
+
+### 3. Search and Retrieval Layer
+- **Component**: `search_vector_db.py`
+- **Purpose**: Performs semantic search on the vector database
+- **Key Features**:
+  - Implements vector similarity search
+  - Returns top-k most relevant results
+  - Processes search queries from input files
+
+### 4. AI Analysis Layer
+- **Component**: `gemini_retrieval.py`
+- **Purpose**: Uses Google's Gemini model to analyze and process retrieved data
+- **Key Features**:
+  - Integrates with Gemini AI model
+  - Processes search results
+  - Generates insights from retrieved data
+
+### 5. Utility Layer
+- **Component**: `utils.py`
+- **Purpose**: Provides helper functions and common utilities
+- **Key Features**:
+  - Subreddit list management
+  - Common utility functions
+  - Configuration handling
+
+## Project Structure
+```
+Reddit-Crawler/
+├── src/
+│   ├── main.py                 # Main execution script
+│   ├── ingestion.py           # Reddit data collection
+│   ├── create_vector_database.py  # Vector DB creation
+│   ├── search_vector_db.py    # Vector search implementation
+│   ├── gemini_retrieval.py    # AI analysis integration
+│   └── utils.py              # Utility functions
+├── runs/                      # Directory for run outputs
+├── subreddits.txt            # List of target subreddits
+├── Ideation_Query.txt        # Search queries
+├── requirements.txt          # Project dependencies
+└── key.yaml                 # Configuration file
+```
+
+## Workflow
+1. **Data Collection**:
+   - System reads target subreddits from `subreddits.txt`
+   - Scrapes posts using PRAW
+   - Stores raw data in timestamped directories
+
+2. **Data Processing**:
+   - Converts raw posts into vector embeddings
+   - Stores embeddings in vector database
+   - Implements batch processing for efficiency
+
+3. **Search and Analysis**:
+   - Reads search queries from `Ideation_Query.txt`
+   - Performs semantic search on vector database
+   - Uses Gemini AI to analyze results
+   - Generates insights and responses
+
+## Configuration
+- **Reddit API**: Configured through PRAW credentials
+- **Vector Database**: Uses Pinecone for vector storage
+- **AI Model**: Integrates with Google's Gemini model
+- **Subreddits**: Managed through `subreddits.txt`
+
+## Dependencies
+- PRAW (Python Reddit API Wrapper)
+- Vector database client
+- Google Gemini API
+- Standard Python libraries
+
+## Usage
+1. Configure API credentials in `key.yaml`
+2. Add target subreddits to `subreddits.txt`
+3. Add search queries to `Ideation_Query.txt`
+4. Run `main.py` to execute the complete pipeline
+
+## Output
+- Raw scraped data stored in JSON format
+- Vector search results
+- AI-generated insights and analysis
+- All outputs organized in timestamped directories under `runs/` 

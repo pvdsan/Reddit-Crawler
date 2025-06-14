@@ -1,0 +1,38 @@
+Here are 5 possible AI MCP (Model Context Protocol) server product ideas for a hackathon, focusing on rare or not currently available applications:
+
+---
+
+### **1. AI IaC Orchestrator MCP**
+**Description:** An MCP server allowing AI agents to generate, validate, and deploy cloud infrastructure configurations (e.g., Terraform, CloudFormation) directly. It manages state, supports rollbacks, and interprets high-level natural language commands for cloud resource provisioning. This transforms infrastructure management into a conversational AI experience.
+**Scores:**
+*   Level of Tech: 4/5
+*   Niche Level: 3/5
+*   Capital Required to Start: 3/5
+
+### **2. Contextual Knowledge Graph MCP**
+**Description:** An MCP server that builds and queries a dynamic knowledge graph from disparate private data sources (e.g., internal documents, CRM, project boards). AI agents can then perform complex, cross-contextual queries and synthesize nuanced insights for specific business needs, bridging knowledge silos for intelligent decision-making.
+**Scores:**
+*   Level of Tech: 5/5
+*   Niche Level: 2/5
+*   Capital Required to Start: 4/5
+
+### **3. AI-Driven UI/UX Audit MCP**
+**Description:** An MCP server offering tools for AI agents to analyze UI designs (from Figma files or codebases), perform accessibility checks, identify inconsistencies, and suggest cross-platform optimizations. It provides actionable, real-time feedback directly to AI development workflows for improved user experience.
+**Scores:**
+*   Level of Tech: 4/5
+*   Niche Level: 4/5
+*   Capital Required to Start: 3/5
+
+### **4. Personal Finance AI Agent MCP**
+**Description:** An MCP server securely connecting to diverse financial accounts (banking, investments) and accounting software via APIs. AI agents can categorize transactions, forecast cash flow, analyze spending patterns, and generate personalized budgeting advice, making complex financial management accessible through conversational AI.
+**Scores:**
+*   Level of Tech: 3/5
+*   Niche Level: 1/5
+*   Capital Required to Start: 4/5
+
+### **5. Intelligent Digital Asset Orchestration MCP**
+**Description:** An MCP server that unifies digital asset management across various cloud storage platforms, offering AI tools for intelligent tagging, content-based search, version control, and optimized media delivery. It ensures all assets are findable, consistent, and ready for use by AI agents or human teams.
+**Scores:**
+*   Level of Tech: 4/5
+*   Niche Level: 3/5
+*   Capital Required to Start: 3/5

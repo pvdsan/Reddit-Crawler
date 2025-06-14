@@ -1,3 +1,3 @@
-Can you provide top 5 possible AI startup ideas not currently available or rare using from the following text, 
+Can you provide top 5 possible AI MCP server product ideas for a hackathon not currently available or rare using from the following text, 
 Make sure you give a 3 line description for each idea.
 Give each of them a score from  of 1 to 5 with a score on the basis of level of tech, Niche level, capital required to start.
