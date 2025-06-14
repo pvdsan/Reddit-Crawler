@@ -7,7 +7,7 @@ import os
 
 pc = Pinecone(api_key="pcsk_oE8i9_BuQ2tgsxyNxRwUKPcFvW34VuQ98SmJE88qtybKBA1R4uWVvExwiDryEgu3Bygzb")
 
-def search_vector_db(index_name: str, query_file_path: str, current_run_path: str, top_k: int = 100):
+def search_vector_db(index_name: str, query: str, current_run_path: str, top_k: int = 100):
 
     if not pc.has_index(index_name):
         print(f"Creating index '{index_name}' with integrated embeddings for 'llama-text-embed-v2'...")
@@ -26,10 +26,6 @@ def search_vector_db(index_name: str, query_file_path: str, current_run_path: st
         print(f"Index '{index_name}' already exists. Connecting to it.")
 
     dense_index = pc.Index(index_name)
-
-    #Load the query from the query file
-    with open(query_file_path, "r") as file:
-        query = file.read()
 
     reranked_results = dense_index.search(
         namespace="example-namespace",
@@ -63,4 +59,5 @@ def search_vector_db(index_name: str, query_file_path: str, current_run_path: st
             print(message)
             f_out.write(message + "\n")
     
+    return output_filename
     

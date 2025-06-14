@@ -1,13 +1,13 @@
 # ingestion.py
 
 import json
-from utils import load_subreddits
+from .utils import load_subreddits
 import praw
 from datetime import datetime
 import os
 
 # Load your full list
-SUBREDDITS = load_subreddits("../subreddits.txt")
+SUBREDDITS = load_subreddits("C:/Users/Sanket/Reddit-Crawler/subreddits.txt")
 
 reddit = praw.Reddit(
     client_id="SOaUPFvPmBJx8kOHdLvuBg",

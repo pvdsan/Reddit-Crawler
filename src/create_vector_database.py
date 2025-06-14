@@ -23,7 +23,7 @@ def create_vector_database(current_run_path: str, batch_size: int = 95, index_na
 
     # Load the preprocessed records
     try:
-        with open(raw_scraps_filename, 'r') as f:
+        with open(raw_scraps_filename, 'r', encoding="utf-8") as f:
             records_to_upsert = json.load(f)
     except FileNotFoundError:
         print(f"Error: '{raw_scraps_filename}' not found. Please run the preprocessing script first.")
