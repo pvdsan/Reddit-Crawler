@@ -4,7 +4,13 @@ import json
 import random
 import itertools
 import os
+from src.utils import load_config
 # from langchain_google_genai import GoogleGenerativeAIEmbeddings # This was unused, can be removed if not needed
+
+# Load configuration
+config = load_config("key.yaml")
+if not config:
+    raise ValueError("Could not load configuration from key.yaml")
 
 def chunks(iterable, batch_size=200):
     """A helper function to break an iterable into chunks of size batch_size."""
@@ -17,13 +23,17 @@ def chunks(iterable, batch_size=200):
 
 def create_vector_database(current_run_path: str, batch_size: int = 95, index_name: str = "tech-ideas-py"):
 # Initialize a Pinecone client with your API key
-    pc = Pinecone(api_key="pcsk_oE8i9_BuQ2tgsxyNxRwUKPcFvW34VuQ98SmJE88qtybKBA1R4uWVvExwiDryEgu3Bygzb")
+    pinecone_api_key = config.get("keys", {}).get("PINECONE")
+    if not pinecone_api_key:
+        raise ValueError("PINECONE API key not found in configuration")
+    
+    pc = Pinecone(api_key=pinecone_api_key)
     
     raw_scraps_filename = os.path.join(current_run_path, "raw_scrap_results.json")
 
-    # Load the preprocessed records
+    # Load the preprocessed records with UTF-8 encoding
     try:
-        with open(raw_scraps_filename, 'r') as f:
+        with open(raw_scraps_filename, 'r', encoding='utf-8') as f:
             records_to_upsert = json.load(f)
     except FileNotFoundError:
         print(f"Error: '{raw_scraps_filename}' not found. Please run the preprocessing script first.")

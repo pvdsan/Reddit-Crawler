@@ -1,3 +1,16 @@
 keys: 
-  GEMINI: AIzaSyC0i9vw1GMG9EYvmSjbamqCsSK-d-sdyA4
-  PINECONE: pcsk_2ZPNm1_JumR65RqEfG3fP7JRbsvAi8zfbhgVJ1oT8D6dCtFLHQtuUD6NoPk5mdHySrnJcc
+  GEMINI: "AIzaSyC0i9vw1GMG9EYvmSjbamqCsSK-d-sdyA4"
+  PINECONE: "pcsk_2ZPNm1_JumR65RqEfG3fP7JRbsvAi8zfbhgVJ1oT8D6dCtFLHQtuUD6NoPk5mdHySrnJcc"
+
+reddit:
+  client_id: "SOaUPFvPmBJx8kOHdLvuBg"
+  client_secret: "EZhoDA7a4Q007WgtxZz2S7dM_BTS2Q"
+  username: "pvdsan"
+  password: "Xyzzyspon123!"
+
+# Example configuration - Replace with your actual API keys
+# 
+# To get these keys:
+# 1. Reddit API: https://www.reddit.com/prefs/apps
+# 2. Gemini API: https://aistudio.google.com/app/apikey  
+# 3. Pinecone API: https://www.pinecone.io/

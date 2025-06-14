@@ -4,8 +4,18 @@ import json
 import random
 import itertools
 import os
+from src.utils import load_config
 
-pc = Pinecone(api_key="pcsk_oE8i9_BuQ2tgsxyNxRwUKPcFvW34VuQ98SmJE88qtybKBA1R4uWVvExwiDryEgu3Bygzb")
+# Load configuration
+config = load_config("key.yaml")
+if not config:
+    raise ValueError("Could not load configuration from key.yaml")
+
+pinecone_api_key = config.get("keys", {}).get("PINECONE")
+if not pinecone_api_key:
+    raise ValueError("PINECONE API key not found in configuration")
+
+pc = Pinecone(api_key=pinecone_api_key)
 
 def search_vector_db(index_name: str, query_file_path: str, current_run_path: str, top_k: int = 100):
 
@@ -27,8 +37,8 @@ def search_vector_db(index_name: str, query_file_path: str, current_run_path: st
 
     dense_index = pc.Index(index_name)
 
-    #Load the query from the query file
-    with open(query_file_path, "r") as file:
+    #Load the query from the query file with UTF-8 encoding
+    with open(query_file_path, "r", encoding="utf-8") as file:
         query = file.read()
 
     reranked_results = dense_index.search(

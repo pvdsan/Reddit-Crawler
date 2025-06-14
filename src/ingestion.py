@@ -1,25 +1,36 @@
 # ingestion.py
 
 import json
-from utils import load_subreddits
+from src.utils import load_subreddits, load_config, ensure_runs_dir
 import praw
 from datetime import datetime
 import os
 
+# Load configuration
+config = load_config("key.yaml")
+if not config:
+    raise ValueError("Could not load configuration from key.yaml. Please ensure the file exists and is properly formatted.")
+
 # Load your full list
-SUBREDDITS = load_subreddits("../subreddits.txt")
+SUBREDDITS = load_subreddits("subreddits.txt")
+
+# Reddit credentials - must be configured in key.yaml
+reddit_config = config.get("reddit", {})
+if not all(key in reddit_config for key in ["client_id", "client_secret", "username", "password"]):
+    raise ValueError("Reddit configuration is incomplete. Please ensure client_id, client_secret, username, and password are set in key.yaml")
 
 reddit = praw.Reddit(
-    client_id="SOaUPFvPmBJx8kOHdLvuBg",
-    client_secret="EZhoDA7a4Q007WgtxZz2S7dM_BTS2Q",  
+    client_id=reddit_config["client_id"],
+    client_secret=reddit_config["client_secret"],  
     user_agent="Tech Ideas Scraper",
-    username="pvdsan",
-    password='Xyzzyspon123!'
+    username=reddit_config["username"],
+    password=reddit_config["password"]
 )
 
 def scrape_reddit(scrapes_per_subreddit: int) -> str:
     
-    output_dir_base = "/data/users4/sdeshpande8/Reddit-Crawler/runs"
+    # Use the runs directory in the current project
+    output_dir_base = ensure_runs_dir()
     
     #create a directory for the current run
     current_time = datetime.now().strftime("%Y-%m-%d_%H_%M")
