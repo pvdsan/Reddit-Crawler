@@ -4,13 +4,12 @@ import json
 import random
 import itertools
 import os
-from src.utils import load_config
-# from langchain_google_genai import GoogleGenerativeAIEmbeddings # This was unused, can be removed if not needed
+import yaml
+from dotenv import load_dotenv
 
-# Load configuration
-config = load_config("key.yaml")
-if not config:
-    raise ValueError("Could not load configuration from key.yaml")
+with open("secrets.yaml", 'r') as stream:
+    keys = yaml.safe_load(stream)
+    
 
 def chunks(iterable, batch_size=200):
     """A helper function to break an iterable into chunks of size batch_size."""
@@ -21,30 +20,26 @@ def chunks(iterable, batch_size=200):
         chunk = tuple(itertools.islice(it, batch_size))
 
 
-def create_vector_database(current_run_path: str, batch_size: int = 95, index_name: str = "tech-ideas-py"):
+def create_vector_database(current_run_path: str, batch_size: int = 95, index_name: str = "tech-ideas-py", namespace: str = "example-namespace"):
 # Initialize a Pinecone client with your API key
-    pinecone_api_key = config.get("keys", {}).get("PINECONE")
-    if not pinecone_api_key:
-        raise ValueError("PINECONE API key not found in configuration")
-    
-    pc = Pinecone(api_key=pinecone_api_key)
+    pc = Pinecone(api_key=keys['PINECONE_API_KEY'])
     
     raw_scraps_filename = os.path.join(current_run_path, "raw_scrap_results.json")
 
-    # Load the preprocessed records with UTF-8 encoding
+    # Load the preprocessed records
     try:
-        with open(raw_scraps_filename, 'r', encoding='utf-8') as f:
+        with open(raw_scraps_filename, 'r', encoding="utf-8") as f:
             records_to_upsert = json.load(f)
     except FileNotFoundError:
         print(f"Error: '{raw_scraps_filename}' not found. Please run the preprocessing script first.")
-        exit()
+        return
     except json.JSONDecodeError:
         print(f"Error: Could not decode JSON from '{raw_scraps_filename}'. Make sure it's valid.")
-        exit()
+        return
 
     if not records_to_upsert:
         print(f"No records found in '{raw_scraps_filename}'. Nothing to upsert.")
-        exit()
+        return
 
     # Create a dense index with integrated embedding (or connect if exists)
     if not pc.has_index(index_name):

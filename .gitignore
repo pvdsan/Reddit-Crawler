@@ -60,3 +60,4 @@ temp/
 # API Keys (backup - keys should be in key.yaml which is tracked)
 .env.local
 secrets.txt 
+keys.yaml

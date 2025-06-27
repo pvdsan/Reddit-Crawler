@@ -1,0 +1,12 @@
+services:
+  app:
+    build: .
+    container_name: reddit-crawler
+    ports:
+      - "8001:8001"
+    volumes:
+      - .:/app
+    working_dir: /app
+    command: uvicorn src.services:app --host 0.0.0.0 --port 8001
+    environment:
+      - PYTHONUNBUFFERED=1 

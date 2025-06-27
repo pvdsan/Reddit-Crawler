@@ -4,20 +4,14 @@ import json
 import random
 import itertools
 import os
-from src.utils import load_config
+import yaml
 
-# Load configuration
-config = load_config("key.yaml")
-if not config:
-    raise ValueError("Could not load configuration from key.yaml")
+with open("secrets.yaml", 'r') as stream:
+    keys = yaml.safe_load(stream)
 
-pinecone_api_key = config.get("keys", {}).get("PINECONE")
-if not pinecone_api_key:
-    raise ValueError("PINECONE API key not found in configuration")
+pc = Pinecone(api_key=keys['PINECONE_API_KEY'])
 
-pc = Pinecone(api_key=pinecone_api_key)
-
-def search_vector_db(index_name: str, query_file_path: str, current_run_path: str, top_k: int = 100):
+def search_vector_db(index_name: str, query: str, current_run_path: str, top_k: int = 100, namespace: str = "example-namespace"):
 
     if not pc.has_index(index_name):
         print(f"Creating index '{index_name}' with integrated embeddings for 'llama-text-embed-v2'...")
@@ -36,10 +30,6 @@ def search_vector_db(index_name: str, query_file_path: str, current_run_path: st
         print(f"Index '{index_name}' already exists. Connecting to it.")
 
     dense_index = pc.Index(index_name)
-
-    #Load the query from the query file with UTF-8 encoding
-    with open(query_file_path, "r", encoding="utf-8") as file:
-        query = file.read()
 
     reranked_results = dense_index.search(
         namespace="example-namespace",
@@ -72,5 +62,4 @@ def search_vector_db(index_name: str, query_file_path: str, current_run_path: st
             message = "No results found to save."
             print(message)
             f_out.write(message + "\n")
-    
     
